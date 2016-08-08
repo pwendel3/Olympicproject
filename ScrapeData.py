@@ -1,14 +1,16 @@
 from __future__ import absolute_import, division, print_function, unicode_literals
 
 from bs4 import BeautifulSoup
-import pandas as pd
-import numpy as np
-import random
+import arrow
+import bibtexparser
+import codecs
 import hashlib
+import pprint
+import random
+import re
 import requests
 import sys
 import time
-import codecs
 
 
 _GOOGLEID = hashlib.md5(str(random.random()).encode('utf-8')).hexdigest()[:16]
@@ -34,31 +36,55 @@ def _get_soup(pagerequest):
     html = _get_page(pagerequest)
     return BeautifulSoup(html, 'html.parser')
 
-def _get_data(pagerequest):
+'''def _get_data(pagerequest):
 	soup = _get_soup(pagerequest)
-	return soup
+	return soup'''
 
 def _get_country_data(pagerequest):
-	soup = _get_data(pagerequest)
+	soup = _get_soup(pagerequest)
+	temp = soup.find(class_ = 'pt8').findAll('tr')
+	#headers = ",".join(temp[0].findAll(text = True))
+	#headers = headers.split(',')
 	while True:
-		for row in soup.findAll('table',class_ = 'pt8'):
-			return (row)
-			#yield Medal_Tally(row)
+		for row in range(1,len(temp)):
+			yield Medal_Tally(temp[row])
+		if row == len(temp):
+			"Page Extracted"
+		else:
+			break
+
+def find_between( s, first, last ):
+    try:
+        start = s.index( first ) + len( first )
+        end = s.index( last, start )
+        return s[start:end]
+    except ValueError:
+        return ""
 
 class Medal_Tally(object):
 	def __init__(self,__data):
 		self.medal = dict()
-		self.medal['Country_Code'] = __data.find('tr',class_ = 'c12')
-		self.medal['Gold'] = __data.find('td',class_ = 'cen')
-		self.medal['Silver'] = __data.find('td',class_ = 'cen')
-		self.medal['Bronze'] = __data.find('td',class_ = 'cen')
-		self.medal['Total'] = __data.find('td',class_ = 'cen')
+		self.medal['Country_Code'] = __data.find('a')['href'].split("cty=")[1]
+		self.medal['Year'] = find_between(__data.find('a')['href'],"g=","&")
+		data = ",".join(__data.findAll(text = True))
+		data = data.split(",")
+		self.medal['Country'] = data[0]
+		self.medal['Gold'] = data[1]
+		self.medal['Silver'] = data[2]
+		self.medal['Bronze'] = data[3]
+		self.medal['Total'] = data[4]
 
 	def __str__(self):
 		return pprint.pformat(self.__dict__)
 
 if __name__ == '__main__':
 	x = _get_country_data("1")
-	print (x.find('td',class_ = 'cen'))
-	#print (x)
-	#print (y.Country_Code)
+	a = list()
+	try:
+		for i in x:
+			a.append(i)
+		#print (a)
+	except StopIteration:
+		pass
+	print (i)
+
