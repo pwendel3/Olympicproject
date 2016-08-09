@@ -11,6 +11,7 @@ import re
 import requests
 import sys
 import time
+import sqlSetup
 
 
 _GOOGLEID = hashlib.md5(str(random.random()).encode('utf-8')).hexdigest()[:16]
@@ -22,7 +23,6 @@ _HEADERS = {
     }
 _SESSION = requests.Session()
 _WEBPAGE = "http://www.databaseolympics.com/games/gamesyear.htm?g="
-_pagerequest = "1"
 
 def _get_page(pagerequest):
 	resp_url = _SESSION.get(_WEBPAGE+pagerequest, headers=_HEADERS, cookies=_COOKIES)
@@ -66,6 +66,7 @@ class Medal_Tally(object):
 		self.medal = dict()
 		self.medal['Country_Code'] = __data.find('a')['href'].split("cty=")[1]
 		self.medal['Year'] = find_between(__data.find('a')['href'],"g=","&")
+		self.medal['Id'] = self.medal['Country_Code'] + '_' + self.medal['Year']
 		data = ",".join(__data.findAll(text = True))
 		data = data.split(",")
 		self.medal['Country'] = data[0]
@@ -78,13 +79,27 @@ class Medal_Tally(object):
 		return pprint.pformat(self.__dict__)
 
 if __name__ == '__main__':
-	x = _get_country_data("1")
-	a = list()
+	sqlSetup.mysqlConn()
+	for i in range(1,27):
+		olympics_gen = _get_country_data(str(i))
+		olympics_data = list()
+		try:
+			for j in olympics_gen:
+				olympics_data.append([j.medal['Id'],j.medal['Country'],j.medal['Country_Code'],j.medal['Gold'],
+									j.medal['Silver'],j.medal['Bronze'],j.medal['Total']])
+		except StopIteration:
+			pass
+		sqlSetup.update_OlympicMedals(olympics_data)
+
+	olympics_gen = _get_country_data("47")
+	olympics_data = list()
 	try:
-		for i in x:
-			a.append(i)
-		#print (a)
+		for j in olympics_gen:
+			olympics_data.append([j.medal['Id'],j.medal['Country'],j.medal['Country_Code'],j.medal['Gold'],
+									j.medal['Silver'],j.medal['Bronze'],j.medal['Total']])
 	except StopIteration:
 		pass
-	print (i)
+	sqlSetup.update_OlympicMedals(olympics_data)
+
+
 
