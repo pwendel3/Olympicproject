@@ -1,1102 +1,1102 @@
 ,Id,Country,Country_Code,Gold_Medals,Silver_Medals,Bronze_Medals,Total
-0,AFG_47,Afghanistan,AFG,0,0,1,1
-1,AHO_22,Netherland Antilles,AHO,0,1,0,1
-2,ALG_21,Algeria,ALG,0,0,2,2
-3,ALG_23,Algeria,ALG,1,0,1,2
-4,ALG_24,Algeria,ALG,2,0,1,3
-5,ALG_25,Algeria,ALG,1,1,3,5
-6,ALG_47,Algeria,ALG,0,1,1,2
-7,ANZ_5,Australasia (until 1920),ANZ,1,2,2,5
-8,ANZ_6,Australasia (until 1920),ANZ,2,2,3,7
-9,ARG_10,Argentina,ARG,3,1,0,4
-10,ARG_11,Argentina,ARG,2,2,3,7
-11,ARG_12,Argentina,ARG,3,3,1,7
-12,ARG_13,Argentina,ARG,1,2,2,5
-13,ARG_14,Argentina,ARG,0,1,1,2
-14,ARG_15,Argentina,ARG,0,1,1,2
-15,ARG_16,Argentina,ARG,0,1,0,1
-16,ARG_17,Argentina,ARG,0,0,2,2
-17,ARG_18,Argentina,ARG,0,1,0,1
-18,ARG_22,Argentina,ARG,0,1,1,2
-19,ARG_23,Argentina,ARG,0,0,1,1
-20,ARG_24,Argentina,ARG,0,2,1,3
-21,ARG_25,Argentina,ARG,0,2,2,4
-22,ARG_26,Argentina,ARG,2,0,4,6
-23,ARG_47,Argentina,ARG,2,0,4,6
-24,ARG_8,Argentina,ARG,1,3,2,6
-25,ARG_9,Argentina,ARG,3,3,1,7
-26,ARM_24,Armenia,ARM,1,1,0,2
-27,ARM_25,Armenia,ARM,0,0,2,2
-28,ARM_47,Armenia,ARM,0,0,6,6
-29,AUS_1,Australia,AUS,2,0,0,2
-30,AUS_10,Australia,AUS,3,1,1,5
-31,AUS_11,Australia,AUS,0,0,1,1
-32,AUS_12,Australia,AUS,2,6,5,13
-33,AUS_13,Australia,AUS,6,2,3,11
-34,AUS_14,Australia,AUS,13,8,14,35
-35,AUS_15,Australia,AUS,8,8,6,22
-36,AUS_16,Australia,AUS,6,2,10,18
-37,AUS_17,Australia,AUS,5,7,5,17
-38,AUS_18,Australia,AUS,8,7,2,17
-39,AUS_19,Australia,AUS,0,1,4,5
-40,AUS_2,Australia,AUS,2,0,3,5
-41,AUS_20,Australia,AUS,2,2,5,9
-42,AUS_21,Australia,AUS,4,8,12,24
-43,AUS_22,Australia,AUS,3,6,5,14
-44,AUS_23,Australia,AUS,7,9,11,27
-45,AUS_24,Australia,AUS,9,9,23,41
-46,AUS_25,Australia,AUS,16,25,17,58
-47,AUS_26,Australia,AUS,17,16,16,49
-48,AUS_4,Australia,AUS,0,0,3,3
-49,AUS_47,Australia,AUS,14,15,17,46
-50,AUS_7,Australia,AUS,0,2,1,3
-51,AUS_8,Australia,AUS,3,1,2,6
-52,AUS_9,Australia,AUS,1,2,1,4
-53,AUT_1,Austria,AUT,2,1,2,5
-54,AUT_10,Austria,AUT,1,1,3,5
-55,AUT_11,Austria,AUT,5,7,5,17
-56,AUT_12,Austria,AUT,2,2,4,8
-57,AUT_13,Austria,AUT,0,1,1,2
-58,AUT_14,Austria,AUT,0,0,2,2
-59,AUT_15,Austria,AUT,1,1,0,2
-60,AUT_17,Austria,AUT,0,2,2,4
-61,AUT_18,Austria,AUT,0,1,2,3
-62,AUT_19,Austria,AUT,0,0,1,1
-63,AUT_2,Austria,AUT,0,3,3,6
-64,AUT_20,Austria,AUT,1,2,1,4
-65,AUT_21,Austria,AUT,1,1,1,3
-66,AUT_22,Austria,AUT,1,0,0,1
-67,AUT_23,Austria,AUT,0,2,0,2
-68,AUT_24,Austria,AUT,0,1,2,3
-69,AUT_25,Austria,AUT,2,1,0,3
-70,AUT_26,Austria,AUT,2,4,1,7
-71,AUT_3,Austria,AUT,0,0,1,1
-72,AUT_4,Austria,AUT,3,3,3,9
-73,AUT_47,Austria,AUT,0,1,2,3
-74,AUT_5,Austria,AUT,0,0,1,1
-75,AUT_6,Austria,AUT,0,2,2,4
-76,AUT_8,Austria,AUT,0,3,1,4
-77,AUT_9,Austria,AUT,3,0,1,4
-78,AZE_24,Azerbaijan,AZE,0,1,0,1
-79,AZE_25,Azerbaijan,AZE,2,0,1,3
-80,AZE_26,Azerbaijan,AZE,1,0,4,5
-81,AZE_47,Azerbaijan,AZE,1,2,5,8
-82,BAH_14,Bahamas,BAH,0,0,1,1
-83,BAH_16,Bahamas,BAH,1,0,0,1
-84,BAH_23,Bahamas,BAH,0,0,1,1
-85,BAH_24,Bahamas,BAH,0,1,0,1
-86,BAH_25,Bahamas,BAH,2,0,0,2
-87,BAH_26,Bahamas,BAH,1,0,1,2
-88,BAH_47,Bahamas,BAH,0,1,1,2
-89,BAR_25,Barbados,BAR,0,0,1,1
-90,BDI_24,Burundi,BDI,1,0,0,1
-91,BEL_10,Belgium,BEL,0,0,1,1
-92,BEL_11,Belgium,BEL,0,0,3,3
-93,BEL_12,Belgium,BEL,2,2,3,7
-94,BEL_13,Belgium,BEL,2,2,0,4
-95,BEL_14,Belgium,BEL,0,2,0,2
-96,BEL_15,Belgium,BEL,0,2,2,4
-97,BEL_16,Belgium,BEL,2,0,1,3
-98,BEL_17,Belgium,BEL,0,1,1,2
-99,BEL_18,Belgium,BEL,0,2,0,2
-100,BEL_19,Belgium,BEL,0,3,3,6
-101,BEL_2,Belgium,BEL,6,5,5,16
-102,BEL_20,Belgium,BEL,1,0,0,1
-103,BEL_21,Belgium,BEL,1,1,2,4
-104,BEL_22,Belgium,BEL,0,0,2,2
-105,BEL_23,Belgium,BEL,0,1,2,3
-106,BEL_24,Belgium,BEL,2,2,2,6
-107,BEL_25,Belgium,BEL,0,2,3,5
-108,BEL_26,Belgium,BEL,1,0,2,3
-109,BEL_4,Belgium,BEL,2,1,3,6
-110,BEL_47,Belgium,BEL,1,1,0,2
-111,BEL_5,Belgium,BEL,1,5,2,8
-112,BEL_6,Belgium,BEL,2,1,3,6
-113,BEL_7,Belgium,BEL,16,12,14,42
-114,BEL_8,Belgium,BEL,3,7,3,13
-115,BEL_9,Belgium,BEL,0,1,2,3
-116,BER_19,Bermuda,BER,0,0,1,1
-117,BIN_10,British India,BIN,1,0,0,1
-118,BIN_11,British India,BIN,1,0,0,1
-119,BIN_2,British India,BIN,0,2,0,2
-120,BIN_9,British India,BIN,1,0,0,1
-121,BLR_24,Belarus,BLR,1,6,8,15
-122,BLR_25,Belarus,BLR,3,3,11,17
-123,BLR_26,Belarus,BLR,2,6,7,15
-124,BLR_47,Belarus,BLR,4,5,9,18
-125,BOH_2,Bohemia,BOH,0,1,1,2
-126,BOH_4,Bohemia,BOH,0,0,2,2
-127,BOH_5,Bohemia,BOH,0,0,2,2
-128,BRA_12,Brazil,BRA,0,0,1,1
-129,BRA_13,Brazil,BRA,1,0,2,3
-130,BRA_14,Brazil,BRA,1,0,0,1
-131,BRA_15,Brazil,BRA,0,0,2,2
-132,BRA_16,Brazil,BRA,0,0,1,1
-133,BRA_17,Brazil,BRA,0,1,2,3
-134,BRA_18,Brazil,BRA,0,0,2,2
-135,BRA_19,Brazil,BRA,0,0,2,2
-136,BRA_20,Brazil,BRA,2,0,2,4
-137,BRA_21,Brazil,BRA,1,5,2,8
-138,BRA_22,Brazil,BRA,1,2,3,6
-139,BRA_23,Brazil,BRA,2,1,0,3
-140,BRA_24,Brazil,BRA,3,3,9,15
-141,BRA_25,Brazil,BRA,0,6,6,12
-142,BRA_26,Brazil,BRA,5,2,3,10
-143,BRA_47,Brazil,BRA,3,4,7,14
-144,BRA_7,Brazil,BRA,1,1,1,3
-145,BRN_47,Bahrain,BRN,1,0,0,1
-146,BUL_13,Bulgaria,BUL,0,0,1,1
-147,BUL_14,Bulgaria,BUL,1,3,1,5
-148,BUL_15,Bulgaria,BUL,1,3,3,7
-149,BUL_16,Bulgaria,BUL,3,5,2,10
-150,BUL_17,Bulgaria,BUL,2,4,3,9
-151,BUL_18,Bulgaria,BUL,6,10,5,21
-152,BUL_19,Bulgaria,BUL,6,9,7,22
-153,BUL_20,Bulgaria,BUL,8,16,17,41
-154,BUL_22,Bulgaria,BUL,10,12,13,35
-155,BUL_23,Bulgaria,BUL,3,7,6,16
-156,BUL_24,Bulgaria,BUL,3,7,5,15
-157,BUL_25,Bulgaria,BUL,5,6,2,13
-158,BUL_26,Bulgaria,BUL,2,1,9,12
-159,BUL_47,Bulgaria,BUL,1,1,3,5
-160,BUR_47,Burkina Faso,BUR,0,0,1,1
-161,BWI_15,British West Indies,BWI,0,0,2,2
-162,CAN_10,Canada,CAN,2,5,9,16
-163,CAN_11,Canada,CAN,1,3,5,9
-164,CAN_12,Canada,CAN,0,2,2,4
-165,CAN_13,Canada,CAN,1,2,0,3
-166,CAN_14,Canada,CAN,2,1,3,6
-167,CAN_15,Canada,CAN,0,1,0,1
-168,CAN_16,Canada,CAN,1,2,1,4
-169,CAN_17,Canada,CAN,1,3,1,5
-170,CAN_18,Canada,CAN,0,2,3,5
-171,CAN_19,Canada,CAN,0,5,6,11
-172,CAN_2,Canada,CAN,1,0,1,2
-173,CAN_21,Canada,CAN,10,18,16,44
-174,CAN_22,Canada,CAN,3,2,5,10
-175,CAN_23,Canada,CAN,7,4,7,18
-176,CAN_24,Canada,CAN,3,11,8,22
-177,CAN_25,Canada,CAN,3,3,8,14
-178,CAN_26,Canada,CAN,3,6,3,12
-179,CAN_3,Canada,CAN,4,1,1,6
-180,CAN_4,Canada,CAN,1,1,0,2
-181,CAN_47,Canada,CAN,3,9,6,18
-182,CAN_5,Canada,CAN,3,3,10,16
-183,CAN_6,Canada,CAN,3,2,3,8
-184,CAN_7,Canada,CAN,3,3,3,9
-185,CAN_8,Canada,CAN,0,3,1,4
-186,CAN_9,Canada,CAN,4,4,7,15
-187,CHI_13,Chile,CHI,0,2,0,2
-188,CHI_14,Chile,CHI,0,2,2,4
-189,CHI_22,Chile,CHI,0,1,0,1
-190,CHI_25,Chile,CHI,0,0,1,1
-191,CHI_26,Chile,CHI,2,0,1,3
-192,CHI_47,Chile,CHI,0,1,0,1
-193,CHI_9,Chile,CHI,0,1,0,1
-194,CHN_21,China,CHN,15,8,9,32
-195,CHN_22,China,CHN,5,11,12,28
-196,CHN_23,China,CHN,16,22,16,54
-197,CHN_24,China,CHN,16,22,12,50
-198,CHN_25,China,CHN,28,16,15,59
-199,CHN_26,China,CHN,32,17,14,63
-200,CHN_47,China,CHN,51,21,28,100
-201,CIV_21,Ivory Coast,CIV,0,1,0,1
-202,CMR_17,Cameroon,CMR,0,1,0,1
-203,CMR_21,Cameroon,CMR,0,0,1,1
-204,CMR_25,Cameroon,CMR,1,0,0,1
-205,CMR_26,Cameroon,CMR,1,0,0,1
-206,CMR_47,Cameroon,CMR,1,0,0,1
-207,COL_18,Colombia,COL,0,1,2,3
-208,COL_21,Colombia,COL,0,1,0,1
-209,COL_22,Colombia,COL,0,0,1,1
-210,COL_23,Colombia,COL,0,0,1,1
-211,COL_25,Colombia,COL,1,0,0,1
-212,COL_26,Colombia,COL,0,0,1,1
-213,COL_47,Colombia,COL,0,1,1,2
-214,CRC_22,Costa Rica,CRC,0,1,0,1
-215,CRC_24,Costa Rica,CRC,1,0,0,1
-216,CRC_25,Costa Rica,CRC,0,0,2,2
-217,CRO_23,Croatia,CRO,0,1,2,3
-218,CRO_24,Croatia,CRO,1,1,0,2
-219,CRO_25,Croatia,CRO,1,0,1,2
-220,CRO_26,Croatia,CRO,1,2,2,5
-221,CRO_47,Croatia,CRO,0,2,3,5
-222,CUB_12,Cuba,CUB,0,1,0,1
-223,CUB_16,Cuba,CUB,0,1,0,1
-224,CUB_17,Cuba,CUB,0,4,0,4
-225,CUB_18,Cuba,CUB,3,1,4,8
-226,CUB_19,Cuba,CUB,6,4,3,13
-227,CUB_2,Cuba,CUB,1,1,0,2
-228,CUB_20,Cuba,CUB,8,7,5,20
-229,CUB_23,Cuba,CUB,14,6,11,31
-230,CUB_24,Cuba,CUB,9,8,8,25
-231,CUB_25,Cuba,CUB,11,11,7,29
-232,CUB_26,Cuba,CUB,9,7,11,27
-233,CUB_3,Cuba,CUB,4,2,3,9
-234,CUB_47,Cuba,CUB,2,11,12,25
-235,CZE_10,Czechoslovakia (until 1992),CZE,1,3,2,6
-236,CZE_11,Czechoslovakia (until 1992),CZE,3,5,1,9
-237,CZE_12,Czechoslovakia (until 1992),CZE,6,2,3,11
-238,CZE_13,Czechoslovakia (until 1992),CZE,7,3,3,13
-239,CZE_14,Czechoslovakia (until 1992),CZE,1,4,1,6
-240,CZE_15,Czechoslovakia (until 1992),CZE,3,2,3,8
-241,CZE_16,Czechoslovakia (until 1992),CZE,5,6,3,14
-242,CZE_17,Czechoslovakia (until 1992),CZE,7,2,4,13
-243,CZE_18,Czechoslovakia (until 1992),CZE,2,4,2,8
-244,CZE_19,Czechoslovakia (until 1992),CZE,2,2,4,8
-245,CZE_20,Czechoslovakia (until 1992),CZE,2,3,9,14
-246,CZE_22,Czechoslovakia (until 1992),CZE,3,3,2,8
-247,CZE_7,Czechoslovakia (until 1992),CZE,0,0,2,2
-248,CZE_8,Czechoslovakia (until 1992),CZE,1,4,5,10
-249,CZE_9,Czechoslovakia (until 1992),CZE,2,5,2,9
-250,CZR_23,Czech Rep.,CZR,4,2,1,7
-251,CZR_24,Czech Rep.,CZR,4,3,4,11
-252,CZR_25,Czech Rep.,CZR,2,3,3,8
-253,CZR_26,Czech Rep.,CZR,1,3,4,8
-254,CZR_47,Czech Rep.,CZR,3,3,0,6
-255,DEN_1,Denmark,DEN,1,2,3,6
-256,DEN_10,Denmark,DEN,0,5,3,8
-257,DEN_11,Denmark,DEN,0,2,3,5
-258,DEN_12,Denmark,DEN,5,8,9,22
-259,DEN_13,Denmark,DEN,2,1,3,6
-260,DEN_14,Denmark,DEN,1,2,1,4
-261,DEN_15,Denmark,DEN,2,3,1,6
-262,DEN_16,Denmark,DEN,2,1,3,6
-263,DEN_17,Denmark,DEN,1,4,3,8
-264,DEN_18,Denmark,DEN,1,0,0,1
-265,DEN_19,Denmark,DEN,1,0,2,3
-266,DEN_2,Denmark,DEN,1,3,2,6
-267,DEN_20,Denmark,DEN,2,1,2,5
-268,DEN_21,Denmark,DEN,0,3,3,6
-269,DEN_22,Denmark,DEN,2,1,1,4
-270,DEN_23,Denmark,DEN,1,1,4,6
-271,DEN_24,Denmark,DEN,4,1,1,6
-272,DEN_25,Denmark,DEN,2,3,1,6
-273,DEN_26,Denmark,DEN,2,0,6,8
-274,DEN_4,Denmark,DEN,3,2,1,6
-275,DEN_47,Denmark,DEN,2,2,3,7
-276,DEN_5,Denmark,DEN,0,2,3,5
-277,DEN_6,Denmark,DEN,1,6,5,12
-278,DEN_7,Denmark,DEN,3,9,1,13
-279,DEN_8,Denmark,DEN,2,6,3,11
-280,DEN_9,Denmark,DEN,3,2,4,9
-281,DEU_1,Germany (until 1912),DEU,6,5,2,13
-282,DEU_2,Germany (until 1912),DEU,4,2,2,8
-283,DEU_3,Germany (until 1912),DEU,4,4,5,13
-284,DEU_4,Germany (until 1912),DEU,4,6,5,15
-285,DEU_5,Germany (until 1912),DEU,3,5,6,14
-286,DEU_6,Germany (until 1912),DEU,5,13,7,25
-287,DJI_22,Djibouti,DJI,0,0,1,1
-288,DOM_21,Dominican Rep.,DOM,0,0,1,1
-289,DOM_26,Dominican Rep.,DOM,1,0,0,1
-290,DOM_47,Dominican Rep.,DOM,1,1,0,2
-291,ECU_24,Ecuador,ECU,1,0,0,1
-292,ECU_47,Ecuador,ECU,0,1,0,1
-293,EGY_11,Egypt,EGY,2,1,2,5
-294,EGY_12,Egypt,EGY,2,2,1,5
-295,EGY_13,Egypt,EGY,0,0,1,1
-296,EGY_15,Egypt,EGY,0,1,1,2
-297,EGY_21,Egypt,EGY,0,1,0,1
-298,EGY_26,Egypt,EGY,1,1,3,5
-299,EGY_47,Egypt,EGY,0,0,1,1
-300,EGY_9,Egypt,EGY,2,1,1,4
-301,ERI_26,Eritrea,ERI,0,0,1,1
-302,ESP_10,Spain,ESP,0,0,1,1
-303,ESP_12,Spain,ESP,0,1,0,1
-304,ESP_13,Spain,ESP,0,1,0,1
-305,ESP_15,Spain,ESP,0,0,1,1
-306,ESP_18,Spain,ESP,0,0,1,1
-307,ESP_19,Spain,ESP,0,2,0,2
-308,ESP_2,Spain,ESP,1,0,0,1
-309,ESP_20,Spain,ESP,1,3,2,6
-310,ESP_21,Spain,ESP,1,2,2,5
-311,ESP_22,Spain,ESP,1,1,2,4
-312,ESP_23,Spain,ESP,13,7,2,22
-313,ESP_24,Spain,ESP,5,6,6,17
-314,ESP_25,Spain,ESP,3,3,5,11
-315,ESP_26,Spain,ESP,3,11,5,19
-316,ESP_47,Spain,ESP,6,10,3,19
-317,ESP_7,Spain,ESP,0,2,0,2
-318,ESP_9,Spain,ESP,1,0,0,1
-319,EST_11,Estonia,EST,2,2,3,7
-320,EST_23,Estonia,EST,1,0,1,2
-321,EST_25,Estonia,EST,1,0,2,3
-322,EST_26,Estonia,EST,0,1,2,3
-323,EST_47,Estonia,EST,1,1,0,2
-324,EST_7,Estonia,EST,1,2,0,3
-325,EST_8,Estonia,EST,1,1,4,6
-326,EST_9,Estonia,EST,2,1,2,5
-327,ETH_15,Ethiopia,ETH,1,0,0,1
-328,ETH_16,Ethiopia,ETH,1,0,0,1
-329,ETH_17,Ethiopia,ETH,1,1,0,2
-330,ETH_18,Ethiopia,ETH,0,0,2,2
-331,ETH_20,Ethiopia,ETH,2,0,2,4
-332,ETH_23,Ethiopia,ETH,1,0,2,3
-333,ETH_24,Ethiopia,ETH,2,0,1,3
-334,ETH_25,Ethiopia,ETH,4,1,3,8
-335,ETH_26,Ethiopia,ETH,2,3,2,7
-336,ETH_47,Ethiopia,ETH,4,1,2,7
-337,FIN_10,Finland,FIN,5,8,12,25
-338,FIN_11,Finland,FIN,8,6,6,20
-339,FIN_12,Finland,FIN,10,8,6,24
-340,FIN_13,Finland,FIN,6,3,13,22
-341,FIN_14,Finland,FIN,3,1,11,15
-342,FIN_15,Finland,FIN,1,1,3,5
-343,FIN_16,Finland,FIN,3,0,2,5
-344,FIN_17,Finland,FIN,1,2,1,4
-345,FIN_18,Finland,FIN,3,1,4,8
-346,FIN_19,Finland,FIN,4,2,0,6
-347,FIN_20,Finland,FIN,3,1,4,8
-348,FIN_21,Finland,FIN,4,2,6,12
-349,FIN_22,Finland,FIN,1,1,2,4
-350,FIN_23,Finland,FIN,1,2,2,5
-351,FIN_24,Finland,FIN,1,2,1,4
-352,FIN_25,Finland,FIN,2,1,1,4
-353,FIN_26,Finland,FIN,0,2,0,2
-354,FIN_4,Finland,FIN,2,1,1,4
-355,FIN_47,Finland,FIN,1,1,2,4
-356,FIN_5,Finland,FIN,1,1,3,5
-357,FIN_6,Finland,FIN,9,8,9,26
-358,FIN_7,Finland,FIN,15,10,9,34
-359,FIN_8,Finland,FIN,14,13,10,37
-360,FIN_9,Finland,FIN,8,8,9,25
-361,FRA_1,France,FRA,5,4,2,11
-362,FRA_10,France,FRA,11,5,4,20
-363,FRA_11,France,FRA,7,6,6,19
-364,FRA_12,France,FRA,11,6,15,32
-365,FRA_13,France,FRA,6,6,6,18
-366,FRA_14,France,FRA,4,4,6,14
-367,FRA_15,France,FRA,0,2,3,5
-368,FRA_16,France,FRA,1,8,6,15
-369,FRA_17,France,FRA,7,3,5,15
-370,FRA_18,France,FRA,2,4,7,13
-371,FRA_19,France,FRA,2,3,4,9
-372,FRA_2,France,FRA,28,44,36,108
-373,FRA_20,France,FRA,6,5,3,14
-374,FRA_21,France,FRA,5,7,16,28
-375,FRA_22,France,FRA,6,4,6,16
-376,FRA_23,France,FRA,8,5,16,29
-377,FRA_24,France,FRA,15,7,15,37
-378,FRA_25,France,FRA,13,14,11,38
-379,FRA_26,France,FRA,11,9,13,33
-380,FRA_4,France,FRA,15,9,16,40
-381,FRA_47,France,FRA,7,16,17,40
-382,FRA_5,France,FRA,5,5,9,19
-383,FRA_6,France,FRA,8,5,3,16
-384,FRA_7,France,FRA,9,20,13,42
-385,FRA_8,France,FRA,14,15,12,41
-386,FRA_9,France,FRA,7,12,6,25
-387,FRG_17,West Germany,FRG,5,11,10,26
-388,FRG_18,West Germany,FRG,13,11,16,40
-389,FRG_19,West Germany,FRG,10,12,17,39
-390,FRG_21,West Germany,FRG,17,19,23,59
-391,FRG_22,West Germany,FRG,11,14,15,40
-392,GBR_1,United Kingdom,GBR,2,3,2,7
-393,GBR_10,United Kingdom,GBR,5,7,5,17
-394,GBR_11,United Kingdom,GBR,4,7,3,14
-395,GBR_12,United Kingdom,GBR,4,15,7,26
-396,GBR_13,United Kingdom,GBR,1,2,8,11
-397,GBR_14,United Kingdom,GBR,6,7,11,24
-398,GBR_15,United Kingdom,GBR,2,6,12,20
-399,GBR_16,United Kingdom,GBR,4,12,2,18
-400,GBR_17,United Kingdom,GBR,5,5,3,13
-401,GBR_18,United Kingdom,GBR,4,5,9,18
-402,GBR_19,United Kingdom,GBR,3,5,5,13
-403,GBR_2,United Kingdom,GBR,16,6,9,31
-404,GBR_20,United Kingdom,GBR,5,7,9,21
-405,GBR_21,United Kingdom,GBR,5,11,21,37
-406,GBR_22,United Kingdom,GBR,5,10,9,24
-407,GBR_23,United Kingdom,GBR,5,3,12,20
-408,GBR_24,United Kingdom,GBR,1,8,6,15
-409,GBR_25,United Kingdom,GBR,11,10,7,28
-410,GBR_26,United Kingdom,GBR,9,9,12,30
-411,GBR_3,United Kingdom,GBR,1,1,0,2
-412,GBR_4,United Kingdom,GBR,8,11,5,24
-413,GBR_47,United Kingdom,GBR,19,13,15,47
-414,GBR_5,United Kingdom,GBR,56,51,38,145
-415,GBR_6,United Kingdom,GBR,10,15,16,41
-416,GBR_7,United Kingdom,GBR,15,16,13,44
-417,GBR_8,United Kingdom,GBR,10,14,12,36
-418,GBR_9,United Kingdom,GBR,4,11,7,22
-419,GDR_17,East Germany,GDR,9,9,7,25
-420,GDR_18,East Germany,GDR,20,23,23,66
-421,GDR_19,East Germany,GDR,40,25,25,90
-422,GDR_20,East Germany,GDR,47,37,42,126
-423,GDR_22,East Germany,GDR,37,35,30,102
-424,GEO_24,Georgia,GEO,0,0,2,2
-425,GEO_25,Georgia,GEO,0,0,6,6
-426,GEO_26,Georgia,GEO,2,2,0,4
-427,GEO_47,Georgia,GEO,3,0,3,6
-428,GER_10,Germany,GER,5,12,7,24
-429,GER_11,Germany,GER,38,31,32,101
-430,GER_13,Germany,GER,0,7,17,24
-431,GER_14,Germany,GER,6,13,7,26
-432,GER_15,Germany,GER,12,19,11,42
-433,GER_16,Germany,GER,10,22,18,50
-434,GER_23,Germany,GER,33,21,28,82
-435,GER_24,Germany,GER,20,18,27,65
-436,GER_25,Germany,GER,13,17,26,56
-437,GER_26,Germany,GER,13,16,20,49
-438,GER_47,Germany,GER,16,10,15,41
-439,GER_9,Germany,GER,11,9,19,39
-440,GHA_15,Ghana,GHA,0,1,0,1
-441,GHA_16,Ghana,GHA,0,0,1,1
-442,GHA_18,Ghana,GHA,0,0,1,1
-443,GHA_23,Ghana,GHA,0,0,1,1
-444,GRE_1,Greece,GRE,10,17,19,46
-445,GRE_14,Greece,GRE,0,0,1,1
-446,GRE_15,Greece,GRE,1,0,0,1
-447,GRE_17,Greece,GRE,0,0,1,1
-448,GRE_18,Greece,GRE,0,2,0,2
-449,GRE_20,Greece,GRE,1,0,2,3
-450,GRE_21,Greece,GRE,0,1,1,2
-451,GRE_22,Greece,GRE,0,0,1,1
-452,GRE_23,Greece,GRE,2,0,0,2
-453,GRE_24,Greece,GRE,4,4,0,8
-454,GRE_25,Greece,GRE,5,5,3,13
-455,GRE_26,Greece,GRE,6,6,4,16
-456,GRE_3,Greece,GRE,1,0,1,2
-457,GRE_4,Greece,GRE,8,13,13,34
-458,GRE_47,Greece,GRE,0,2,2,4
-459,GRE_5,Greece,GRE,0,3,0,3
-460,GRE_6,Greece,GRE,1,0,1,2
-461,GRE_7,Greece,GRE,0,1,0,1
-462,GRE_8,Greece,GRE,1,0,0,1
-463,GUY_20,Guyana,GUY,0,0,1,1
-464,HAI_8,Haiti,HAI,0,0,1,1
-465,HAI_9,Haiti,HAI,0,1,0,1
-466,HKG_24,Hong Kong,HKG,1,0,0,1
-467,HKG_26,Hong Kong,HKG,0,1,0,1
-468,HUN_1,Hungary,HUN,2,1,3,6
-469,HUN_10,Hungary,HUN,6,5,5,16
-470,HUN_11,Hungary,HUN,10,1,5,16
-471,HUN_12,Hungary,HUN,10,5,12,27
-472,HUN_13,Hungary,HUN,16,10,16,42
-473,HUN_14,Hungary,HUN,9,10,7,26
-474,HUN_15,Hungary,HUN,6,8,7,21
-475,HUN_16,Hungary,HUN,10,7,5,22
-476,HUN_17,Hungary,HUN,10,10,12,32
-477,HUN_18,Hungary,HUN,6,13,16,35
-478,HUN_19,Hungary,HUN,4,5,13,22
-479,HUN_2,Hungary,HUN,1,2,2,5
-480,HUN_20,Hungary,HUN,7,10,15,32
-481,HUN_22,Hungary,HUN,11,6,6,23
-482,HUN_23,Hungary,HUN,11,12,7,30
-483,HUN_24,Hungary,HUN,7,4,10,21
-484,HUN_25,Hungary,HUN,8,6,3,17
-485,HUN_26,Hungary,HUN,8,6,3,17
-486,HUN_3,Hungary,HUN,2,1,1,4
-487,HUN_4,Hungary,HUN,2,5,3,10
-488,HUN_47,Hungary,HUN,3,5,2,10
-489,HUN_5,Hungary,HUN,3,4,2,9
-490,HUN_6,Hungary,HUN,3,2,3,8
-491,HUN_8,Hungary,HUN,2,4,4,10
-492,HUN_9,Hungary,HUN,5,5,0,10
-493,INA_22,Indonesia,INA,0,1,0,1
-494,INA_23,Indonesia,INA,2,2,1,5
-495,INA_24,Indonesia,INA,1,1,2,4
-496,INA_25,Indonesia,INA,1,3,2,6
-497,INA_26,Indonesia,INA,1,1,2,4
-498,INA_47,Indonesia,INA,1,1,3,5
-499,IND_12,India,IND,1,1,0,2
-500,IND_13,India,IND,1,0,1,2
-501,IND_14,India,IND,1,0,0,1
-502,IND_15,India,IND,0,1,0,1
-503,IND_16,India,IND,1,0,0,1
-504,IND_17,India,IND,0,0,1,1
-505,IND_18,India,IND,0,0,1,1
-506,IND_20,India,IND,1,0,0,1
-507,IND_24,India,IND,0,0,1,1
-508,IND_25,India,IND,0,0,1,1
-509,IND_26,India,IND,0,1,0,1
-510,IND_47,India,IND,1,0,2,3
-511,INT_1,International Team,INT,1,1,1,3
-512,INT_2,International Team,INT,6,3,3,12
-513,INT_3,International Team,INT,1,1,0,2
-514,INT_4,International Team,INT,0,2,0,2
-515,IRI_12,Iran,IRI,0,0,1,1
-516,IRI_13,Iran,IRI,0,3,4,7
-517,IRI_14,Iran,IRI,2,2,1,5
-518,IRI_15,Iran,IRI,0,1,3,4
-519,IRI_16,Iran,IRI,0,0,2,2
-520,IRI_17,Iran,IRI,2,1,2,5
-521,IRI_18,Iran,IRI,0,2,1,3
-522,IRI_19,Iran,IRI,0,1,1,2
-523,IRI_22,Iran,IRI,0,1,0,1
-524,IRI_23,Iran,IRI,0,1,2,3
-525,IRI_24,Iran,IRI,1,1,1,3
-526,IRI_25,Iran,IRI,3,0,1,4
-527,IRI_26,Iran,IRI,2,2,2,6
-528,IRL_10,Ireland,IRL,2,0,0,2
-529,IRL_12,Ireland,IRL,0,0,1,1
-530,IRL_13,Ireland,IRL,0,1,0,1
-531,IRL_14,Ireland,IRL,1,1,3,5
-532,IRL_16,Ireland,IRL,0,0,1,1
-533,IRL_20,Ireland,IRL,0,1,1,2
-534,IRL_21,Ireland,IRL,0,1,0,1
-535,IRL_23,Ireland,IRL,1,1,0,2
-536,IRL_24,Ireland,IRL,3,0,1,4
-537,IRL_25,Ireland,IRL,0,1,0,1
-538,IRL_47,Ireland,IRL,0,1,2,3
-539,IRL_8,Ireland,IRL,0,1,1,2
-540,IRL_9,Ireland,IRL,1,0,0,1
-541,IRQ_15,Iraq,IRQ,0,0,1,1
-542,ISL_14,Iceland,ISL,0,1,0,1
-543,ISL_21,Iceland,ISL,0,0,1,1
-544,ISL_25,Iceland,ISL,0,0,1,1
-545,ISR_23,Israel,ISR,0,1,1,2
-546,ISR_24,Israel,ISR,0,0,1,1
-547,ISR_25,Israel,ISR,0,0,1,1
-548,ISR_26,Israel,ISR,1,0,1,2
-549,ISR_47,Israel,ISR,0,0,1,1
-550,ISV_22,Virgin Islands US,ISV,0,1,0,1
-551,ITA_12,Italy,ITA,9,12,10,31
-552,ITA_13,Italy,ITA,8,9,4,21
-553,ITA_14,Italy,ITA,8,8,9,25
-554,ITA_15,Italy,ITA,13,10,13,36
-555,ITA_16,Italy,ITA,10,10,7,27
-556,ITA_17,Italy,ITA,3,4,9,16
-557,ITA_18,Italy,ITA,5,3,10,18
-558,ITA_19,Italy,ITA,2,7,4,13
-559,ITA_20,Italy,ITA,8,3,4,15
-560,ITA_21,Italy,ITA,14,6,12,32
-561,ITA_22,Italy,ITA,6,4,4,14
-562,ITA_23,Italy,ITA,6,5,8,19
-563,ITA_24,Italy,ITA,13,10,12,35
-564,ITA_25,Italy,ITA,13,8,13,34
-565,ITA_26,Italy,ITA,10,11,11,32
-566,ITA_47,Italy,ITA,8,10,10,28
-567,JAM_12,Jamaica,JAM,1,2,0,3
-568,JAM_13,Jamaica,JAM,2,3,0,5
-569,JAM_17,Jamaica,JAM,0,1,0,1
-570,JAM_18,Jamaica,JAM,0,0,1,1
-571,JAM_19,Jamaica,JAM,1,1,0,2
-572,JAM_20,Jamaica,JAM,0,0,3,3
-573,JAM_21,Jamaica,JAM,0,1,2,3
-574,JAM_22,Jamaica,JAM,0,2,0,2
-575,JAM_23,Jamaica,JAM,0,3,1,4
-576,JAM_24,Jamaica,JAM,1,3,2,6
-577,JAM_25,Jamaica,JAM,0,5,4,9
-578,JAM_26,Jamaica,JAM,2,1,2,5
-579,JAM_47,Jamaica,JAM,6,2,2,10
-580,JPN_10,Japan,JPN,7,7,4,18
-581,JPN_11,Japan,JPN,6,4,10,20
-582,JPN_13,Japan,JPN,1,6,2,9
-583,JPN_14,Japan,JPN,4,10,5,19
-584,JPN_15,Japan,JPN,4,7,7,18
-585,JPN_16,Japan,JPN,16,5,8,29
-586,JPN_17,Japan,JPN,11,7,7,25
-587,JPN_18,Japan,JPN,13,8,8,29
-588,JPN_19,Japan,JPN,9,6,10,25
-589,JPN_21,Japan,JPN,10,8,14,32
-590,JPN_22,Japan,JPN,4,3,7,14
-591,JPN_23,Japan,JPN,3,8,11,22
-592,JPN_24,Japan,JPN,3,6,5,14
-593,JPN_25,Japan,JPN,5,8,5,18
-594,JPN_26,Japan,JPN,16,9,12,37
-595,JPN_47,Japan,JPN,9,5,9,23
-596,JPN_7,Japan,JPN,0,2,0,2
-597,JPN_8,Japan,JPN,0,0,1,1
-598,JPN_9,Japan,JPN,2,2,1,5
-599,KAZ_24,Kazakhstan,KAZ,3,4,4,11
-600,KAZ_25,Kazakhstan,KAZ,3,4,0,7
-601,KAZ_26,Kazakhstan,KAZ,1,4,3,8
-602,KAZ_47,Kazakhstan,KAZ,2,4,6,12
-603,KEN_16,Kenya,KEN,0,0,1,1
-604,KEN_17,Kenya,KEN,3,4,2,9
-605,KEN_18,Kenya,KEN,2,3,4,9
-606,KEN_21,Kenya,KEN,1,0,2,3
-607,KEN_22,Kenya,KEN,5,2,2,9
-608,KEN_23,Kenya,KEN,2,4,2,8
-609,KEN_24,Kenya,KEN,1,4,3,8
-610,KEN_25,Kenya,KEN,2,3,2,7
-611,KEN_26,Kenya,KEN,1,4,2,7
-612,KEN_47,Kenya,KEN,5,5,4,14
-613,KGZ_25,Kyrgyzstan,KGZ,0,0,1,1
-614,KGZ_47,Kyrgyzstan,KGZ,0,1,1,2
-615,KIT_10,Italy (until 1946),KIT,12,12,12,36
-616,KIT_11,Italy (until 1946),KIT,9,13,5,27
-617,KIT_2,Italy (until 1946),KIT,2,2,0,4
-618,KIT_4,Italy (until 1946),KIT,7,6,3,16
-619,KIT_5,Italy (until 1946),KIT,2,2,0,4
-620,KIT_6,Italy (until 1946),KIT,5,1,2,8
-621,KIT_7,Italy (until 1946),KIT,14,6,5,25
-622,KIT_8,Italy (until 1946),KIT,8,3,5,16
-623,KIT_9,Italy (until 1946),KIT,7,6,7,20
-624,KOR_12,South Korea,KOR,0,0,2,2
-625,KOR_13,South Korea,KOR,0,0,2,2
-626,KOR_14,South Korea,KOR,0,1,1,2
-627,KOR_16,South Korea,KOR,0,2,1,3
-628,KOR_17,South Korea,KOR,0,1,1,2
-629,KOR_18,South Korea,KOR,0,1,0,1
-630,KOR_19,South Korea,KOR,1,1,4,6
-631,KOR_21,South Korea,KOR,6,6,7,19
-632,KOR_22,South Korea,KOR,12,10,11,33
-633,KOR_23,South Korea,KOR,12,5,12,29
-634,KOR_24,South Korea,KOR,7,15,5,27
-635,KOR_25,South Korea,KOR,8,10,10,28
-636,KOR_26,South Korea,KOR,9,12,9,30
-637,KOR_47,South Korea,KOR,13,10,8,31
-638,KSA_25,Saudi Arabia,KSA,0,1,1,2
-639,KUW_25,Kuwait,KUW,0,0,1,1
-640,LAT_10,Latvia,LAT,0,1,0,1
-641,LAT_11,Latvia,LAT,0,1,1,2
-642,LAT_23,Latvia,LAT,0,2,1,3
-643,LAT_24,Latvia,LAT,0,1,0,1
-644,LAT_25,Latvia,LAT,1,1,1,3
-645,LAT_26,Latvia,LAT,0,4,0,4
-646,LAT_47,Latvia,LAT,1,1,1,3
-647,LIB_13,Lebanon,LIB,0,1,1,2
-648,LIB_18,Lebanon,LIB,0,1,0,1
-649,LIB_20,Lebanon,LIB,0,0,1,1
-650,LTU_23,Lithuania,LTU,1,0,1,2
-651,LTU_24,Lithuania,LTU,0,0,1,1
-652,LTU_25,Lithuania,LTU,2,0,3,5
-653,LTU_26,Lithuania,LTU,1,2,0,3
-654,LTU_47,Lithuania,LTU,0,2,3,5
-655,LUX_13,Luxembourg,LUX,1,0,0,1
-656,LUX_7,Luxembourg,LUX,0,1,0,1
-657,LUX_8,Luxembourg,LUX,1,1,0,2
-658,LUX_9,Luxembourg,LUX,1,0,0,1
-659,MAR_15,Morocco,MAR,0,1,0,1
-660,MAR_21,Morocco,MAR,2,0,0,2
-661,MAR_22,Morocco,MAR,1,0,2,3
-662,MAR_23,Morocco,MAR,1,1,1,3
-663,MAR_24,Morocco,MAR,0,0,2,2
-664,MAR_25,Morocco,MAR,0,1,4,5
-665,MAR_26,Morocco,MAR,2,1,0,3
-666,MAR_47,Morocco,MAR,0,1,1,2
-667,MAS_23,Malaysia,MAS,0,0,1,1
-668,MAS_24,Malaysia,MAS,0,1,1,2
-669,MAS_47,Malaysia,MAS,0,1,0,1
-670,MDA_24,Moldova,MDA,0,1,1,2
-671,MDA_25,Moldova,MDA,0,1,1,2
-672,MDA_47,Moldova,MDA,0,0,1,1
-673,MEX_10,Mexico,MEX,0,2,0,2
-674,MEX_11,Mexico,MEX,0,0,3,3
-675,MEX_12,Mexico,MEX,2,1,2,5
-676,MEX_13,Mexico,MEX,0,1,0,1
-677,MEX_14,Mexico,MEX,1,0,1,2
-678,MEX_15,Mexico,MEX,0,0,1,1
-679,MEX_16,Mexico,MEX,0,0,1,1
-680,MEX_17,Mexico,MEX,3,3,3,9
-681,MEX_18,Mexico,MEX,0,1,0,1
-682,MEX_19,Mexico,MEX,1,0,1,2
-683,MEX_2,Mexico,MEX,0,0,1,1
-684,MEX_20,Mexico,MEX,0,1,3,4
-685,MEX_21,Mexico,MEX,2,3,1,6
-686,MEX_22,Mexico,MEX,0,0,2,2
-687,MEX_23,Mexico,MEX,0,1,0,1
-688,MEX_24,Mexico,MEX,0,0,1,1
-689,MEX_25,Mexico,MEX,1,2,3,6
-690,MEX_26,Mexico,MEX,0,3,1,4
-691,MEX_47,Mexico,MEX,2,0,1,3
-692,MGL_17,Mongolia,MGL,0,1,3,4
-693,MGL_18,Mongolia,MGL,0,1,0,1
-694,MGL_19,Mongolia,MGL,0,1,0,1
-695,MGL_20,Mongolia,MGL,0,2,2,4
-696,MGL_22,Mongolia,MGL,0,0,1,1
-697,MGL_23,Mongolia,MGL,0,0,2,2
-698,MGL_24,Mongolia,MGL,0,0,1,1
-699,MGL_26,Mongolia,MGL,0,0,1,1
-700,MGL_47,Mongolia,MGL,2,2,0,4
-701,MKD_25,Macedonia,MKD,0,0,1,1
-702,MON_8,Monaco,MON,0,0,1,1
-703,MOZ_24,Mozambique,MOZ,0,0,1,1
-704,MOZ_25,Mozambique,MOZ,1,0,0,1
-705,MRI_47,Mauritius,MRI,0,0,1,1
-706,NAM_23,Namibia,NAM,0,2,0,2
-707,NAM_24,Namibia,NAM,0,2,0,2
-708,NED_10,Netherlands,NED,2,5,1,8
-709,NED_11,Netherlands,NED,6,4,7,17
-710,NED_12,Netherlands,NED,5,2,9,16
-711,NED_13,Netherlands,NED,0,5,0,5
-712,NED_15,Netherlands,NED,0,1,2,3
-713,NED_16,Netherlands,NED,2,4,4,10
-714,NED_17,Netherlands,NED,3,3,1,7
-715,NED_18,Netherlands,NED,3,1,1,5
-716,NED_19,Netherlands,NED,0,2,3,5
-717,NED_2,Netherlands,NED,0,1,3,4
-718,NED_20,Netherlands,NED,0,1,2,3
-719,NED_21,Netherlands,NED,5,2,6,13
-720,NED_22,Netherlands,NED,2,2,5,9
-721,NED_23,Netherlands,NED,2,6,7,15
-722,NED_24,Netherlands,NED,4,5,10,19
-723,NED_25,Netherlands,NED,12,9,4,25
-724,NED_26,Netherlands,NED,4,9,9,22
-725,NED_4,Netherlands,NED,0,1,2,3
-726,NED_47,Netherlands,NED,7,5,3,15
-727,NED_5,Netherlands,NED,0,0,2,2
-728,NED_6,Netherlands,NED,0,0,3,3
-729,NED_7,Netherlands,NED,4,2,5,11
-730,NED_8,Netherlands,NED,4,1,6,11
-731,NED_9,Netherlands,NED,8,10,5,23
-732,NGR_16,Nigeria,NGR,0,0,1,1
-733,NGR_18,Nigeria,NGR,0,0,1,1
-734,NGR_21,Nigeria,NGR,0,1,1,2
-735,NGR_23,Nigeria,NGR,0,3,1,4
-736,NGR_24,Nigeria,NGR,2,1,3,6
-737,NGR_25,Nigeria,NGR,0,3,0,3
-738,NGR_26,Nigeria,NGR,0,0,2,2
-739,NGR_47,Nigeria,NGR,0,1,3,4
-740,NIG_18,Niger,NIG,0,0,1,1
-741,NOR_11,Norway,NOR,1,3,2,6
-742,NOR_12,Norway,NOR,1,3,3,7
-743,NOR_13,Norway,NOR,3,2,0,5
-744,NOR_14,Norway,NOR,1,0,2,3
-745,NOR_15,Norway,NOR,1,0,0,1
-746,NOR_17,Norway,NOR,1,1,0,2
-747,NOR_18,Norway,NOR,2,1,1,4
-748,NOR_19,Norway,NOR,1,1,0,2
-749,NOR_2,Norway,NOR,0,2,3,5
-750,NOR_21,Norway,NOR,0,1,2,3
-751,NOR_22,Norway,NOR,2,3,0,5
-752,NOR_23,Norway,NOR,2,4,1,7
-753,NOR_24,Norway,NOR,2,2,3,7
-754,NOR_25,Norway,NOR,4,3,3,10
-755,NOR_26,Norway,NOR,5,0,1,6
-756,NOR_4,Norway,NOR,4,2,1,7
-757,NOR_47,Norway,NOR,3,5,2,10
-758,NOR_5,Norway,NOR,2,3,3,8
-759,NOR_6,Norway,NOR,4,1,4,9
-760,NOR_7,Norway,NOR,13,10,9,32
-761,NOR_8,Norway,NOR,5,2,3,10
-762,NOR_9,Norway,NOR,1,2,1,4
-763,NZL_10,New Zealand,NZL,0,1,0,1
-764,NZL_11,New Zealand,NZL,1,0,0,1
-765,NZL_13,New Zealand,NZL,1,0,2,3
-766,NZL_14,New Zealand,NZL,2,0,0,2
-767,NZL_15,New Zealand,NZL,2,0,1,3
-768,NZL_16,New Zealand,NZL,3,0,2,5
-769,NZL_17,New Zealand,NZL,1,0,2,3
-770,NZL_18,New Zealand,NZL,1,1,1,3
-771,NZL_19,New Zealand,NZL,2,1,1,4
-772,NZL_21,New Zealand,NZL,8,1,2,11
-773,NZL_22,New Zealand,NZL,3,2,8,13
-774,NZL_23,New Zealand,NZL,1,4,5,10
-775,NZL_24,New Zealand,NZL,3,2,1,6
-776,NZL_25,New Zealand,NZL,1,0,3,4
-777,NZL_26,New Zealand,NZL,3,2,0,5
-778,NZL_47,New Zealand,NZL,3,1,5,9
-779,NZL_7,New Zealand,NZL,0,0,1,1
-780,NZL_8,New Zealand,NZL,0,0,1,1
-781,NZL_9,New Zealand,NZL,1,0,0,1
-782,PAK_14,Pakistan,PAK,0,1,0,1
-783,PAK_15,Pakistan,PAK,1,0,1,2
-784,PAK_16,Pakistan,PAK,0,1,0,1
-785,PAK_17,Pakistan,PAK,1,0,0,1
-786,PAK_18,Pakistan,PAK,0,1,0,1
-787,PAK_19,Pakistan,PAK,0,0,1,1
-788,PAK_21,Pakistan,PAK,1,0,0,1
-789,PAK_22,Pakistan,PAK,0,0,1,1
-790,PAK_23,Pakistan,PAK,0,0,1,1
-791,PAN_12,Panama,PAN,0,0,2,2
-792,PAN_47,Panama,PAN,1,0,0,1
-793,PAR_26,Paraguay,PAR,0,1,0,1
-794,PER_12,Peru,PER,1,0,0,1
-795,PER_21,Peru,PER,0,1,0,1
-796,PER_22,Peru,PER,0,1,0,1
-797,PER_23,Peru,PER,0,1,0,1
-798,PHI_10,Philippines,PHI,0,0,3,3
-799,PHI_11,Philippines,PHI,0,0,1,1
-800,PHI_16,Philippines,PHI,0,1,0,1
-801,PHI_22,Philippines,PHI,0,0,1,1
-802,PHI_23,Philippines,PHI,0,0,1,1
-803,PHI_24,Philippines,PHI,0,1,0,1
-804,PHI_9,Philippines,PHI,0,0,1,1
-805,POL_10,Poland,POL,3,2,4,9
-806,POL_11,Poland,POL,0,4,5,9
-807,POL_12,Poland,POL,1,0,1,2
-808,POL_13,Poland,POL,1,2,1,4
-809,POL_14,Poland,POL,1,4,4,9
-810,POL_15,Poland,POL,4,6,11,21
-811,POL_16,Poland,POL,7,6,10,23
-812,POL_17,Poland,POL,5,2,11,18
-813,POL_18,Poland,POL,7,5,9,21
-814,POL_19,Poland,POL,7,6,13,26
-815,POL_20,Poland,POL,3,14,15,32
-816,POL_22,Poland,POL,2,5,9,16
-817,POL_23,Poland,POL,3,6,10,19
-818,POL_24,Poland,POL,7,5,5,17
-819,POL_25,Poland,POL,6,5,3,14
-820,POL_26,Poland,POL,3,2,5,10
-821,POL_47,Poland,POL,3,6,1,10
-822,POL_8,Poland,POL,0,1,1,2
-823,POL_9,Poland,POL,2,1,4,7
-824,POR_11,Portugal,POR,0,0,1,1
-825,POR_12,Portugal,POR,0,1,1,2
-826,POR_13,Portugal,POR,0,0,1,1
-827,POR_15,Portugal,POR,0,1,0,1
-828,POR_19,Portugal,POR,0,2,0,2
-829,POR_21,Portugal,POR,1,0,2,3
-830,POR_22,Portugal,POR,1,0,0,1
-831,POR_24,Portugal,POR,1,0,1,2
-832,POR_25,Portugal,POR,0,0,2,2
-833,POR_26,Portugal,POR,0,2,1,3
-834,POR_47,Portugal,POR,1,1,0,2
-835,POR_8,Portugal,POR,0,0,1,1
-836,POR_9,Portugal,POR,0,0,1,1
-837,PRK_18,North Korea,PRK,1,1,3,5
-838,PRK_19,North Korea,PRK,1,1,0,2
-839,PRK_20,North Korea,PRK,0,3,2,5
-840,PRK_23,North Korea,PRK,4,0,5,9
-841,PRK_24,North Korea,PRK,2,1,2,5
-842,PRK_25,North Korea,PRK,0,1,3,4
-843,PRK_26,North Korea,PRK,0,4,1,5
-844,PRK_47,North Korea,PRK,2,1,3,6
-845,PUR_12,Puerto Rico,PUR,0,0,1,1
-846,PUR_19,Puerto Rico,PUR,0,0,1,1
-847,PUR_21,Puerto Rico,PUR,0,1,1,2
-848,PUR_23,Puerto Rico,PUR,0,0,1,1
-849,PUR_24,Puerto Rico,PUR,0,0,1,1
-850,QAT_23,Qatar,QAT,0,0,1,1
-851,QAT_25,Qatar,QAT,0,0,1,1
-852,ROM_11,Romania,ROM,0,1,0,1
-853,ROM_13,Romania,ROM,1,1,2,4
-854,ROM_14,Romania,ROM,5,3,5,13
-855,ROM_15,Romania,ROM,3,1,6,10
-856,ROM_16,Romania,ROM,2,4,6,12
-857,ROM_17,Romania,ROM,4,6,5,15
-858,ROM_18,Romania,ROM,3,6,7,16
-859,ROM_19,Romania,ROM,4,9,14,27
-860,ROM_20,Romania,ROM,6,6,13,25
-861,ROM_21,Romania,ROM,20,16,17,53
-862,ROM_22,Romania,ROM,7,11,6,24
-863,ROM_23,Romania,ROM,4,6,8,18
-864,ROM_24,Romania,ROM,4,7,9,20
-865,ROM_25,Romania,ROM,11,6,8,25
-866,ROM_26,Romania,ROM,8,5,6,19
-867,ROM_47,Romania,ROM,4,1,3,8
-868,ROM_8,Romania,ROM,0,0,1,1
-869,RSA_23,South Africa,RSA,0,2,0,2
-870,RSA_24,South Africa,RSA,3,1,1,5
-871,RSA_25,South Africa,RSA,0,2,3,5
-872,RSA_26,South Africa,RSA,1,3,2,6
-873,RSA_47,South Africa,RSA,0,1,0,1
-874,RUS_24,Russia,RUS,26,21,16,63
-875,RUS_25,Russia,RUS,32,28,28,88
-876,RUS_26,Russia,RUS,27,27,38,92
-877,RUS_47,Russia,RUS,23,21,28,72
-878,RUS_5,Russia,RUS,1,2,0,3
-879,RUS_6,Russia,RUS,0,2,3,5
-880,SAF_10,South Africa (until 1960),SAF,2,0,3,5
-881,SAF_11,South Africa (until 1960),SAF,0,1,0,1
-882,SAF_12,South Africa (until 1960),SAF,2,2,2,6
-883,SAF_13,South Africa (until 1960),SAF,2,4,4,10
-884,SAF_14,South Africa (until 1960),SAF,0,0,4,4
-885,SAF_15,South Africa (until 1960),SAF,0,1,2,3
-886,SAF_5,South Africa (until 1960),SAF,1,1,0,2
-887,SAF_6,South Africa (until 1960),SAF,4,2,0,6
-888,SAF_7,South Africa (until 1960),SAF,3,4,3,10
-889,SAF_8,South Africa (until 1960),SAF,1,1,1,3
-890,SAF_9,South Africa (until 1960),SAF,1,0,2,3
-891,SEN_22,Senegal,SEN,0,1,0,1
-892,SIN_15,Singapore,SIN,0,1,0,1
-893,SIN_47,Singapore,SIN,0,1,0,1
-894,SLO_23,Slovenia,SLO,0,0,2,2
-895,SLO_24,Slovenia,SLO,0,2,0,2
-896,SLO_25,Slovenia,SLO,2,0,0,2
-897,SLO_26,Slovenia,SLO,0,1,3,4
-898,SLO_47,Slovenia,SLO,1,2,2,5
-899,SRB_47,Serbia,SRB,0,1,2,3
-900,SRI_12,Sri Lanka,SRI,0,1,0,1
-901,SRI_25,Sri Lanka,SRI,0,1,0,1
-902,SUD_47,Sudan,SUD,0,1,0,1
-903,SUI_1,Switzerland,SUI,1,2,0,3
-904,SUI_10,Switzerland,SUI,0,1,0,1
-905,SUI_11,Switzerland,SUI,4,9,5,18
-906,SUI_12,Switzerland,SUI,5,12,5,22
-907,SUI_13,Switzerland,SUI,2,6,6,14
-908,SUI_14,Switzerland,SUI,0,0,1,1
-909,SUI_15,Switzerland,SUI,0,3,3,6
-910,SUI_16,Switzerland,SUI,1,2,1,4
-911,SUI_17,Switzerland,SUI,0,1,4,5
-912,SUI_18,Switzerland,SUI,0,3,0,3
-913,SUI_19,Switzerland,SUI,1,1,2,4
-914,SUI_2,Switzerland,SUI,6,2,1,9
-915,SUI_20,Switzerland,SUI,2,0,0,2
-916,SUI_21,Switzerland,SUI,0,4,4,8
-917,SUI_22,Switzerland,SUI,0,2,2,4
-918,SUI_23,Switzerland,SUI,1,0,0,1
-919,SUI_24,Switzerland,SUI,4,3,0,7
-920,SUI_25,Switzerland,SUI,1,6,2,9
-921,SUI_26,Switzerland,SUI,1,1,3,5
-922,SUI_3,Switzerland,SUI,1,0,1,2
-923,SUI_4,Switzerland,SUI,5,6,4,15
-924,SUI_47,Switzerland,SUI,1,0,4,5
-925,SUI_6,Switzerland,SUI,1,0,0,1
-926,SUI_7,Switzerland,SUI,2,2,7,11
-927,SUI_8,Switzerland,SUI,7,8,10,25
-928,SUI_9,Switzerland,SUI,7,6,4,17
-929,SUR_22,Suriname,SUR,1,0,0,1
-930,SUR_23,Suriname,SUR,0,0,1,1
-931,SVK_24,Slovak Rep.,SVK,1,1,1,3
-932,SVK_25,Slovak Rep.,SVK,1,3,1,5
-933,SVK_26,Slovak Rep.,SVK,2,2,2,6
-934,SVK_47,Slovak Rep.,SVK,3,2,1,6
-935,SWE_10,Sweden,SWE,10,5,9,24
-936,SWE_11,Sweden,SWE,6,5,10,21
-937,SWE_12,Sweden,SWE,17,11,18,46
-938,SWE_13,Sweden,SWE,12,13,10,35
-939,SWE_14,Sweden,SWE,8,5,6,19
-940,SWE_15,Sweden,SWE,1,2,3,6
-941,SWE_16,Sweden,SWE,2,2,4,8
-942,SWE_17,Sweden,SWE,2,1,1,4
-943,SWE_18,Sweden,SWE,4,6,6,16
-944,SWE_19,Sweden,SWE,4,1,0,5
-945,SWE_2,Sweden,SWE,0,0,1,1
-946,SWE_20,Sweden,SWE,3,3,6,12
-947,SWE_21,Sweden,SWE,2,11,6,19
-948,SWE_22,Sweden,SWE,0,4,7,11
-949,SWE_23,Sweden,SWE,1,7,4,12
-950,SWE_24,Sweden,SWE,2,4,2,8
-951,SWE_25,Sweden,SWE,4,5,3,12
-952,SWE_26,Sweden,SWE,4,2,1,7
-953,SWE_4,Sweden,SWE,2,5,7,14
-954,SWE_47,Sweden,SWE,0,4,1,5
-955,SWE_5,Sweden,SWE,8,6,11,25
-956,SWE_6,Sweden,SWE,24,24,17,65
-957,SWE_7,Sweden,SWE,19,20,24,63
-958,SWE_8,Sweden,SWE,4,13,12,29
-959,SWE_9,Sweden,SWE,7,6,12,25
-960,SYR_21,Syria,SYR,0,1,0,1
-961,SYR_24,Syria,SYR,1,0,0,1
-962,SYR_26,Syria,SYR,0,0,1,1
-963,TAN_20,Tanzania,TAN,0,2,0,2
-964,TGA_24,Tonga,TGA,0,1,0,1
-965,THA_19,Thailand,THA,0,0,1,1
-966,THA_21,Thailand,THA,0,1,0,1
-967,THA_22,Thailand,THA,0,0,1,1
-968,THA_23,Thailand,THA,0,0,1,1
-969,THA_24,Thailand,THA,1,0,1,2
-970,THA_25,Thailand,THA,1,0,2,3
-971,THA_26,Thailand,THA,3,1,4,8
-972,THA_47,Thailand,THA,2,2,0,4
-973,TJK_47,Tajikistan,TJK,0,1,1,2
-974,TOG_47,Togo,TOG,0,0,1,1
-975,TPE_15,Taiwan,TPE,0,1,0,1
-976,TPE_17,Taiwan,TPE,0,0,1,1
-977,TPE_21,Taiwan,TPE,0,0,1,1
-978,TPE_23,Taiwan,TPE,0,1,0,1
-979,TPE_24,Taiwan,TPE,0,1,0,1
-980,TPE_25,Taiwan,TPE,0,1,4,5
-981,TPE_26,Taiwan,TPE,2,2,1,5
-982,TPE_47,Taiwan,TPE,0,0,4,4
-983,TRI_12,Trinidad & Tobago,TRI,0,1,0,1
-984,TRI_13,Trinidad & Tobago,TRI,0,0,2,2
-985,TRI_16,Trinidad & Tobago,TRI,0,1,2,3
-986,TRI_19,Trinidad & Tobago,TRI,1,0,0,1
-987,TRI_24,Trinidad & Tobago,TRI,0,0,2,2
-988,TRI_25,Trinidad & Tobago,TRI,0,1,1,2
-989,TRI_26,Trinidad & Tobago,TRI,0,0,1,1
-990,TRI_47,Trinidad & Tobago,TRI,0,2,0,2
-991,TUN_16,Tunisia,TUN,0,1,1,2
-992,TUN_17,Tunisia,TUN,1,0,1,2
-993,TUN_18,Tunisia,TUN,0,1,0,1
-994,TUN_24,Tunisia,TUN,0,0,1,1
-995,TUN_47,Tunisia,TUN,1,0,0,1
-996,TUR_11,Turkey,TUR,1,0,1,2
-997,TUR_12,Turkey,TUR,6,4,2,12
-998,TUR_13,Turkey,TUR,2,0,1,3
-999,TUR_14,Turkey,TUR,3,2,2,7
-1000,TUR_15,Turkey,TUR,7,2,0,9
-1001,TUR_16,Turkey,TUR,2,3,1,6
-1002,TUR_17,Turkey,TUR,2,0,0,2
-1003,TUR_18,Turkey,TUR,0,1,0,1
-1004,TUR_21,Turkey,TUR,0,0,3,3
-1005,TUR_22,Turkey,TUR,1,1,0,2
-1006,TUR_23,Turkey,TUR,2,2,2,6
-1007,TUR_24,Turkey,TUR,4,1,1,6
-1008,TUR_25,Turkey,TUR,3,0,2,5
-1009,TUR_26,Turkey,TUR,3,3,4,10
-1010,TUR_47,Turkey,TUR,1,4,3,8
-1011,UAE_26,United Arab Emirates,UAE,1,0,0,1
-1012,UGA_17,Uganda,UGA,0,1,1,2
-1013,UGA_18,Uganda,UGA,1,1,0,2
-1014,UGA_20,Uganda,UGA,0,1,0,1
-1015,UGA_24,Uganda,UGA,0,0,1,1
-1016,UKR_24,Ukraine,UKR,9,2,12,23
-1017,UKR_25,Ukraine,UKR,3,10,10,23
-1018,UKR_26,Ukraine,UKR,9,5,9,23
-1019,UKR_47,Ukraine,UKR,7,5,15,27
-1020,URS_13,Soviet Union,URS,22,30,19,71
-1021,URS_14,Soviet Union,URS,37,29,32,98
-1022,URS_15,Soviet Union,URS,43,29,31,103
-1023,URS_16,Soviet Union,URS,30,31,35,96
-1024,URS_17,Soviet Union,URS,29,32,30,91
-1025,URS_18,Soviet Union,URS,50,27,22,99
-1026,URS_19,Soviet Union,URS,49,41,35,125
-1027,URS_20,Soviet Union,URS,80,69,46,195
-1028,URS_22,Soviet Union,URS,55,31,46,132
-1029,URS_23,Soviet Union,URS,45,38,29,112
-1030,URU_10,Uruguay,URU,0,0,1,1
-1031,URU_12,Uruguay,URU,0,1,1,2
-1032,URU_13,Uruguay,URU,0,0,2,2
-1033,URU_14,Uruguay,URU,0,0,1,1
-1034,URU_16,Uruguay,URU,0,0,1,1
-1035,URU_25,Uruguay,URU,0,1,0,1
-1036,URU_8,Uruguay,URU,1,0,0,1
-1037,URU_9,Uruguay,URU,1,0,0,1
-1038,USA_1,United States,USA,11,7,2,20
-1039,USA_10,United States,USA,44,36,30,110
-1040,USA_11,United States,USA,24,21,12,57
-1041,USA_12,United States,USA,38,27,19,84
-1042,USA_13,United States,USA,40,19,17,76
-1043,USA_14,United States,USA,32,25,17,74
-1044,USA_15,United States,USA,34,21,16,71
-1045,USA_16,United States,USA,36,26,28,90
-1046,USA_17,United States,USA,45,28,34,107
-1047,USA_18,United States,USA,33,31,30,94
-1048,USA_19,United States,USA,34,35,25,94
-1049,USA_2,United States,USA,19,14,15,48
-1050,USA_21,United States,USA,83,61,30,174
-1051,USA_22,United States,USA,36,31,27,94
-1052,USA_23,United States,USA,37,34,37,108
-1053,USA_24,United States,USA,44,32,25,101
-1054,USA_25,United States,USA,37,24,31,92
-1055,USA_26,United States,USA,36,39,28,103
-1056,USA_3,United States,USA,78,82,79,239
-1057,USA_4,United States,USA,12,6,6,24
-1058,USA_47,United States,USA,36,38,36,110
-1059,USA_5,United States,USA,23,12,12,47
-1060,USA_6,United States,USA,26,19,19,64
-1061,USA_7,United States,USA,41,27,27,95
-1062,USA_8,United States,USA,45,27,27,99
-1063,USA_9,United States,USA,22,18,16,56
-1064,UZB_24,Uzbekistan,UZB,0,1,1,2
-1065,UZB_25,Uzbekistan,UZB,1,1,2,4
-1066,UZB_26,Uzbekistan,UZB,2,1,2,5
-1067,UZB_47,Uzbekistan,UZB,1,2,3,6
-1068,VEN_13,Venezuela,VEN,0,0,1,1
-1069,VEN_15,Venezuela,VEN,0,0,1,1
-1070,VEN_17,Venezuela,VEN,1,0,0,1
-1071,VEN_19,Venezuela,VEN,0,1,0,1
-1072,VEN_20,Venezuela,VEN,0,1,0,1
-1073,VEN_21,Venezuela,VEN,0,0,3,3
-1074,VEN_26,Venezuela,VEN,0,0,2,2
-1075,VEN_47,Venezuela,VEN,0,0,1,1
-1076,VIE_25,Vietnam,VIE,0,1,0,1
-1077,VIE_47,Vietnam,VIE,0,1,0,1
-1078,YUF_23,Yugoslav Federation,YUF,0,1,2,3
-1079,YUF_24,Yugoslav Federation,YUF,1,1,2,4
-1080,YUF_25,Yugoslav Federation,YUF,1,1,1,3
-1081,YUF_26,Yugoslav Federation,YUF,0,2,0,2
-1082,YUG_11,Yugoslavia (until 1988),YUG,0,1,0,1
-1083,YUG_12,Yugoslavia (until 1988),YUG,0,2,0,2
-1084,YUG_13,Yugoslavia (until 1988),YUG,1,2,0,3
-1085,YUG_14,Yugoslavia (until 1988),YUG,0,3,0,3
-1086,YUG_15,Yugoslavia (until 1988),YUG,1,1,0,2
-1087,YUG_16,Yugoslavia (until 1988),YUG,2,1,2,5
-1088,YUG_17,Yugoslavia (until 1988),YUG,3,3,2,8
-1089,YUG_18,Yugoslavia (until 1988),YUG,2,1,2,5
-1090,YUG_19,Yugoslavia (until 1988),YUG,2,3,3,8
-1091,YUG_20,Yugoslavia (until 1988),YUG,2,3,4,9
-1092,YUG_21,Yugoslavia (until 1988),YUG,7,4,7,18
-1093,YUG_22,Yugoslavia (until 1988),YUG,3,4,5,12
-1094,YUG_8,Yugoslavia (until 1988),YUG,2,0,0,2
-1095,YUG_9,Yugoslavia (until 1988),YUG,1,1,3,5
-1096,ZAM_21,Zambia,ZAM,0,0,1,1
-1097,ZAM_24,Zambia,ZAM,0,1,0,1
-1098,ZIM_20,Zimbabwe,ZIM,1,0,0,1
-1099,ZIM_26,Zimbabwe,ZIM,1,1,1,3
-1100,ZIM_47,Zimbabwe,ZIM,1,3,0,4
+0,AFG_2008,Afghanistan,AFG,0,0,1,1
+1,AHO_1988,Netherland Antilles,AHO,0,1,0,1
+2,ALG_1984,Algeria,ALG,0,0,2,2
+3,ALG_1992,Algeria,ALG,1,0,1,2
+4,ALG_1996,Algeria,ALG,2,0,1,3
+5,ALG_2000,Algeria,ALG,1,1,3,5
+6,ALG_2008,Algeria,ALG,0,1,1,2
+7,ANZ_1908,Australasia (until 1920),ANZ,1,2,2,5
+8,ANZ_1912,Australasia (until 1920),ANZ,2,2,3,7
+9,ARG_1924,Argentina,ARG,1,3,2,6
+10,ARG_1928,Argentina,ARG,3,3,1,7
+11,ARG_1932,Argentina,ARG,3,1,0,4
+12,ARG_1936,Argentina,ARG,2,2,3,7
+13,ARG_1948,Argentina,ARG,3,3,1,7
+14,ARG_1952,Argentina,ARG,1,2,2,5
+15,ARG_1956,Argentina,ARG,0,1,1,2
+16,ARG_1960,Argentina,ARG,0,1,1,2
+17,ARG_1964,Argentina,ARG,0,1,0,1
+18,ARG_1968,Argentina,ARG,0,0,2,2
+19,ARG_1972,Argentina,ARG,0,1,0,1
+20,ARG_1988,Argentina,ARG,0,1,1,2
+21,ARG_1992,Argentina,ARG,0,0,1,1
+22,ARG_1996,Argentina,ARG,0,2,1,3
+23,ARG_2000,Argentina,ARG,0,2,2,4
+24,ARG_2004,Argentina,ARG,2,0,4,6
+25,ARG_2008,Argentina,ARG,2,0,4,6
+26,ARM_1996,Armenia,ARM,1,1,0,2
+27,ARM_2000,Armenia,ARM,0,0,2,2
+28,ARM_2008,Armenia,ARM,0,0,6,6
+29,AUS_1896,Australia,AUS,2,0,0,2
+30,AUS_1900,Australia,AUS,2,0,3,5
+31,AUS_1906,Australia,AUS,0,0,3,3
+32,AUS_1920,Australia,AUS,0,2,1,3
+33,AUS_1924,Australia,AUS,3,1,2,6
+34,AUS_1928,Australia,AUS,1,2,1,4
+35,AUS_1932,Australia,AUS,3,1,1,5
+36,AUS_1936,Australia,AUS,0,0,1,1
+37,AUS_1948,Australia,AUS,2,6,5,13
+38,AUS_1952,Australia,AUS,6,2,3,11
+39,AUS_1956,Australia,AUS,13,8,14,35
+40,AUS_1960,Australia,AUS,8,8,6,22
+41,AUS_1964,Australia,AUS,6,2,10,18
+42,AUS_1968,Australia,AUS,5,7,5,17
+43,AUS_1972,Australia,AUS,8,7,2,17
+44,AUS_1976,Australia,AUS,0,1,4,5
+45,AUS_1980,Australia,AUS,2,2,5,9
+46,AUS_1984,Australia,AUS,4,8,12,24
+47,AUS_1988,Australia,AUS,3,6,5,14
+48,AUS_1992,Australia,AUS,7,9,11,27
+49,AUS_1996,Australia,AUS,9,9,23,41
+50,AUS_2000,Australia,AUS,16,25,17,58
+51,AUS_2004,Australia,AUS,17,16,16,49
+52,AUS_2008,Australia,AUS,14,15,17,46
+53,AUT_1896,Austria,AUT,2,1,2,5
+54,AUT_1900,Austria,AUT,0,3,3,6
+55,AUT_1904,Austria,AUT,0,0,1,1
+56,AUT_1906,Austria,AUT,3,3,3,9
+57,AUT_1908,Austria,AUT,0,0,1,1
+58,AUT_1912,Austria,AUT,0,2,2,4
+59,AUT_1924,Austria,AUT,0,3,1,4
+60,AUT_1928,Austria,AUT,3,0,1,4
+61,AUT_1932,Austria,AUT,1,1,3,5
+62,AUT_1936,Austria,AUT,5,7,5,17
+63,AUT_1948,Austria,AUT,2,2,4,8
+64,AUT_1952,Austria,AUT,0,1,1,2
+65,AUT_1956,Austria,AUT,0,0,2,2
+66,AUT_1960,Austria,AUT,1,1,0,2
+67,AUT_1968,Austria,AUT,0,2,2,4
+68,AUT_1972,Austria,AUT,0,1,2,3
+69,AUT_1976,Austria,AUT,0,0,1,1
+70,AUT_1980,Austria,AUT,1,2,1,4
+71,AUT_1984,Austria,AUT,1,1,1,3
+72,AUT_1988,Austria,AUT,1,0,0,1
+73,AUT_1992,Austria,AUT,0,2,0,2
+74,AUT_1996,Austria,AUT,0,1,2,3
+75,AUT_2000,Austria,AUT,2,1,0,3
+76,AUT_2004,Austria,AUT,2,4,1,7
+77,AUT_2008,Austria,AUT,0,1,2,3
+78,AZE_1996,Azerbaijan,AZE,0,1,0,1
+79,AZE_2000,Azerbaijan,AZE,2,0,1,3
+80,AZE_2004,Azerbaijan,AZE,1,0,4,5
+81,AZE_2008,Azerbaijan,AZE,1,2,5,8
+82,BAH_1956,Bahamas,BAH,0,0,1,1
+83,BAH_1964,Bahamas,BAH,1,0,0,1
+84,BAH_1992,Bahamas,BAH,0,0,1,1
+85,BAH_1996,Bahamas,BAH,0,1,0,1
+86,BAH_2000,Bahamas,BAH,2,0,0,2
+87,BAH_2004,Bahamas,BAH,1,0,1,2
+88,BAH_2008,Bahamas,BAH,0,1,1,2
+89,BAR_2000,Barbados,BAR,0,0,1,1
+90,BDI_1996,Burundi,BDI,1,0,0,1
+91,BEL_1900,Belgium,BEL,6,5,5,16
+92,BEL_1906,Belgium,BEL,2,1,3,6
+93,BEL_1908,Belgium,BEL,1,5,2,8
+94,BEL_1912,Belgium,BEL,2,1,3,6
+95,BEL_1920,Belgium,BEL,16,12,14,42
+96,BEL_1924,Belgium,BEL,3,7,3,13
+97,BEL_1928,Belgium,BEL,0,1,2,3
+98,BEL_1932,Belgium,BEL,0,0,1,1
+99,BEL_1936,Belgium,BEL,0,0,3,3
+100,BEL_1948,Belgium,BEL,2,2,3,7
+101,BEL_1952,Belgium,BEL,2,2,0,4
+102,BEL_1956,Belgium,BEL,0,2,0,2
+103,BEL_1960,Belgium,BEL,0,2,2,4
+104,BEL_1964,Belgium,BEL,2,0,1,3
+105,BEL_1968,Belgium,BEL,0,1,1,2
+106,BEL_1972,Belgium,BEL,0,2,0,2
+107,BEL_1976,Belgium,BEL,0,3,3,6
+108,BEL_1980,Belgium,BEL,1,0,0,1
+109,BEL_1984,Belgium,BEL,1,1,2,4
+110,BEL_1988,Belgium,BEL,0,0,2,2
+111,BEL_1992,Belgium,BEL,0,1,2,3
+112,BEL_1996,Belgium,BEL,2,2,2,6
+113,BEL_2000,Belgium,BEL,0,2,3,5
+114,BEL_2004,Belgium,BEL,1,0,2,3
+115,BEL_2008,Belgium,BEL,1,1,0,2
+116,BER_1976,Bermuda,BER,0,0,1,1
+117,BIN_1900,British India,BIN,0,2,0,2
+118,BIN_1928,British India,BIN,1,0,0,1
+119,BIN_1932,British India,BIN,1,0,0,1
+120,BIN_1936,British India,BIN,1,0,0,1
+121,BLR_1996,Belarus,BLR,1,6,8,15
+122,BLR_2000,Belarus,BLR,3,3,11,17
+123,BLR_2004,Belarus,BLR,2,6,7,15
+124,BLR_2008,Belarus,BLR,4,5,9,18
+125,BOH_1900,Bohemia,BOH,0,1,1,2
+126,BOH_1906,Bohemia,BOH,0,0,2,2
+127,BOH_1908,Bohemia,BOH,0,0,2,2
+128,BRA_1920,Brazil,BRA,1,1,1,3
+129,BRA_1948,Brazil,BRA,0,0,1,1
+130,BRA_1952,Brazil,BRA,1,0,2,3
+131,BRA_1956,Brazil,BRA,1,0,0,1
+132,BRA_1960,Brazil,BRA,0,0,2,2
+133,BRA_1964,Brazil,BRA,0,0,1,1
+134,BRA_1968,Brazil,BRA,0,1,2,3
+135,BRA_1972,Brazil,BRA,0,0,2,2
+136,BRA_1976,Brazil,BRA,0,0,2,2
+137,BRA_1980,Brazil,BRA,2,0,2,4
+138,BRA_1984,Brazil,BRA,1,5,2,8
+139,BRA_1988,Brazil,BRA,1,2,3,6
+140,BRA_1992,Brazil,BRA,2,1,0,3
+141,BRA_1996,Brazil,BRA,3,3,9,15
+142,BRA_2000,Brazil,BRA,0,6,6,12
+143,BRA_2004,Brazil,BRA,5,2,3,10
+144,BRA_2008,Brazil,BRA,3,4,7,14
+145,BRN_2008,Bahrain,BRN,1,0,0,1
+146,BUL_1952,Bulgaria,BUL,0,0,1,1
+147,BUL_1956,Bulgaria,BUL,1,3,1,5
+148,BUL_1960,Bulgaria,BUL,1,3,3,7
+149,BUL_1964,Bulgaria,BUL,3,5,2,10
+150,BUL_1968,Bulgaria,BUL,2,4,3,9
+151,BUL_1972,Bulgaria,BUL,6,10,5,21
+152,BUL_1976,Bulgaria,BUL,6,9,7,22
+153,BUL_1980,Bulgaria,BUL,8,16,17,41
+154,BUL_1988,Bulgaria,BUL,10,12,13,35
+155,BUL_1992,Bulgaria,BUL,3,7,6,16
+156,BUL_1996,Bulgaria,BUL,3,7,5,15
+157,BUL_2000,Bulgaria,BUL,5,6,2,13
+158,BUL_2004,Bulgaria,BUL,2,1,9,12
+159,BUL_2008,Bulgaria,BUL,1,1,3,5
+160,BUR_2008,Burkina Faso,BUR,0,0,1,1
+161,BWI_1960,British West Indies,BWI,0,0,2,2
+162,CAN_1900,Canada,CAN,1,0,1,2
+163,CAN_1904,Canada,CAN,4,1,1,6
+164,CAN_1906,Canada,CAN,1,1,0,2
+165,CAN_1908,Canada,CAN,3,3,10,16
+166,CAN_1912,Canada,CAN,3,2,3,8
+167,CAN_1920,Canada,CAN,3,3,3,9
+168,CAN_1924,Canada,CAN,0,3,1,4
+169,CAN_1928,Canada,CAN,4,4,7,15
+170,CAN_1932,Canada,CAN,2,5,9,16
+171,CAN_1936,Canada,CAN,1,3,5,9
+172,CAN_1948,Canada,CAN,0,2,2,4
+173,CAN_1952,Canada,CAN,1,2,0,3
+174,CAN_1956,Canada,CAN,2,1,3,6
+175,CAN_1960,Canada,CAN,0,1,0,1
+176,CAN_1964,Canada,CAN,1,2,1,4
+177,CAN_1968,Canada,CAN,1,3,1,5
+178,CAN_1972,Canada,CAN,0,2,3,5
+179,CAN_1976,Canada,CAN,0,5,6,11
+180,CAN_1984,Canada,CAN,10,18,16,44
+181,CAN_1988,Canada,CAN,3,2,5,10
+182,CAN_1992,Canada,CAN,7,4,7,18
+183,CAN_1996,Canada,CAN,3,11,8,22
+184,CAN_2000,Canada,CAN,3,3,8,14
+185,CAN_2004,Canada,CAN,3,6,3,12
+186,CAN_2008,Canada,CAN,3,9,6,18
+187,CHI_1928,Chile,CHI,0,1,0,1
+188,CHI_1952,Chile,CHI,0,2,0,2
+189,CHI_1956,Chile,CHI,0,2,2,4
+190,CHI_1988,Chile,CHI,0,1,0,1
+191,CHI_2000,Chile,CHI,0,0,1,1
+192,CHI_2004,Chile,CHI,2,0,1,3
+193,CHI_2008,Chile,CHI,0,1,0,1
+194,CHN_1984,China,CHN,15,8,9,32
+195,CHN_1988,China,CHN,5,11,12,28
+196,CHN_1992,China,CHN,16,22,16,54
+197,CHN_1996,China,CHN,16,22,12,50
+198,CHN_2000,China,CHN,28,16,15,59
+199,CHN_2004,China,CHN,32,17,14,63
+200,CHN_2008,China,CHN,51,21,28,100
+201,CIV_1984,Ivory Coast,CIV,0,1,0,1
+202,CMR_1968,Cameroon,CMR,0,1,0,1
+203,CMR_1984,Cameroon,CMR,0,0,1,1
+204,CMR_2000,Cameroon,CMR,1,0,0,1
+205,CMR_2004,Cameroon,CMR,1,0,0,1
+206,CMR_2008,Cameroon,CMR,1,0,0,1
+207,COL_1972,Colombia,COL,0,1,2,3
+208,COL_1984,Colombia,COL,0,1,0,1
+209,COL_1988,Colombia,COL,0,0,1,1
+210,COL_1992,Colombia,COL,0,0,1,1
+211,COL_2000,Colombia,COL,1,0,0,1
+212,COL_2004,Colombia,COL,0,0,1,1
+213,COL_2008,Colombia,COL,0,1,1,2
+214,CRC_1988,Costa Rica,CRC,0,1,0,1
+215,CRC_1996,Costa Rica,CRC,1,0,0,1
+216,CRC_2000,Costa Rica,CRC,0,0,2,2
+217,CRO_1992,Croatia,CRO,0,1,2,3
+218,CRO_1996,Croatia,CRO,1,1,0,2
+219,CRO_2000,Croatia,CRO,1,0,1,2
+220,CRO_2004,Croatia,CRO,1,2,2,5
+221,CRO_2008,Croatia,CRO,0,2,3,5
+222,CUB_1900,Cuba,CUB,1,1,0,2
+223,CUB_1904,Cuba,CUB,4,2,3,9
+224,CUB_1948,Cuba,CUB,0,1,0,1
+225,CUB_1964,Cuba,CUB,0,1,0,1
+226,CUB_1968,Cuba,CUB,0,4,0,4
+227,CUB_1972,Cuba,CUB,3,1,4,8
+228,CUB_1976,Cuba,CUB,6,4,3,13
+229,CUB_1980,Cuba,CUB,8,7,5,20
+230,CUB_1992,Cuba,CUB,14,6,11,31
+231,CUB_1996,Cuba,CUB,9,8,8,25
+232,CUB_2000,Cuba,CUB,11,11,7,29
+233,CUB_2004,Cuba,CUB,9,7,11,27
+234,CUB_2008,Cuba,CUB,2,11,12,25
+235,CZE_1920,Czechoslovakia (until 1992),CZE,0,0,2,2
+236,CZE_1924,Czechoslovakia (until 1992),CZE,1,4,5,10
+237,CZE_1928,Czechoslovakia (until 1992),CZE,2,5,2,9
+238,CZE_1932,Czechoslovakia (until 1992),CZE,1,3,2,6
+239,CZE_1936,Czechoslovakia (until 1992),CZE,3,5,1,9
+240,CZE_1948,Czechoslovakia (until 1992),CZE,6,2,3,11
+241,CZE_1952,Czechoslovakia (until 1992),CZE,7,3,3,13
+242,CZE_1956,Czechoslovakia (until 1992),CZE,1,4,1,6
+243,CZE_1960,Czechoslovakia (until 1992),CZE,3,2,3,8
+244,CZE_1964,Czechoslovakia (until 1992),CZE,5,6,3,14
+245,CZE_1968,Czechoslovakia (until 1992),CZE,7,2,4,13
+246,CZE_1972,Czechoslovakia (until 1992),CZE,2,4,2,8
+247,CZE_1976,Czechoslovakia (until 1992),CZE,2,2,4,8
+248,CZE_1980,Czechoslovakia (until 1992),CZE,2,3,9,14
+249,CZE_1988,Czechoslovakia (until 1992),CZE,3,3,2,8
+250,CZR_1992,Czech Rep.,CZR,4,2,1,7
+251,CZR_1996,Czech Rep.,CZR,4,3,4,11
+252,CZR_2000,Czech Rep.,CZR,2,3,3,8
+253,CZR_2004,Czech Rep.,CZR,1,3,4,8
+254,CZR_2008,Czech Rep.,CZR,3,3,0,6
+255,DEN_1896,Denmark,DEN,1,2,3,6
+256,DEN_1900,Denmark,DEN,1,3,2,6
+257,DEN_1906,Denmark,DEN,3,2,1,6
+258,DEN_1908,Denmark,DEN,0,2,3,5
+259,DEN_1912,Denmark,DEN,1,6,5,12
+260,DEN_1920,Denmark,DEN,3,9,1,13
+261,DEN_1924,Denmark,DEN,2,6,3,11
+262,DEN_1928,Denmark,DEN,3,2,4,9
+263,DEN_1932,Denmark,DEN,0,5,3,8
+264,DEN_1936,Denmark,DEN,0,2,3,5
+265,DEN_1948,Denmark,DEN,5,8,9,22
+266,DEN_1952,Denmark,DEN,2,1,3,6
+267,DEN_1956,Denmark,DEN,1,2,1,4
+268,DEN_1960,Denmark,DEN,2,3,1,6
+269,DEN_1964,Denmark,DEN,2,1,3,6
+270,DEN_1968,Denmark,DEN,1,4,3,8
+271,DEN_1972,Denmark,DEN,1,0,0,1
+272,DEN_1976,Denmark,DEN,1,0,2,3
+273,DEN_1980,Denmark,DEN,2,1,2,5
+274,DEN_1984,Denmark,DEN,0,3,3,6
+275,DEN_1988,Denmark,DEN,2,1,1,4
+276,DEN_1992,Denmark,DEN,1,1,4,6
+277,DEN_1996,Denmark,DEN,4,1,1,6
+278,DEN_2000,Denmark,DEN,2,3,1,6
+279,DEN_2004,Denmark,DEN,2,0,6,8
+280,DEN_2008,Denmark,DEN,2,2,3,7
+281,DEU_1896,Germany (until 1912),DEU,6,5,2,13
+282,DEU_1900,Germany (until 1912),DEU,4,2,2,8
+283,DEU_1904,Germany (until 1912),DEU,4,4,5,13
+284,DEU_1906,Germany (until 1912),DEU,4,6,5,15
+285,DEU_1908,Germany (until 1912),DEU,3,5,6,14
+286,DEU_1912,Germany (until 1912),DEU,5,13,7,25
+287,DJI_1988,Djibouti,DJI,0,0,1,1
+288,DOM_1984,Dominican Rep.,DOM,0,0,1,1
+289,DOM_2004,Dominican Rep.,DOM,1,0,0,1
+290,DOM_2008,Dominican Rep.,DOM,1,1,0,2
+291,ECU_1996,Ecuador,ECU,1,0,0,1
+292,ECU_2008,Ecuador,ECU,0,1,0,1
+293,EGY_1928,Egypt,EGY,2,1,1,4
+294,EGY_1936,Egypt,EGY,2,1,2,5
+295,EGY_1948,Egypt,EGY,2,2,1,5
+296,EGY_1952,Egypt,EGY,0,0,1,1
+297,EGY_1960,Egypt,EGY,0,1,1,2
+298,EGY_1984,Egypt,EGY,0,1,0,1
+299,EGY_2004,Egypt,EGY,1,1,3,5
+300,EGY_2008,Egypt,EGY,0,0,1,1
+301,ERI_2004,Eritrea,ERI,0,0,1,1
+302,ESP_1900,Spain,ESP,1,0,0,1
+303,ESP_1920,Spain,ESP,0,2,0,2
+304,ESP_1928,Spain,ESP,1,0,0,1
+305,ESP_1932,Spain,ESP,0,0,1,1
+306,ESP_1948,Spain,ESP,0,1,0,1
+307,ESP_1952,Spain,ESP,0,1,0,1
+308,ESP_1960,Spain,ESP,0,0,1,1
+309,ESP_1972,Spain,ESP,0,0,1,1
+310,ESP_1976,Spain,ESP,0,2,0,2
+311,ESP_1980,Spain,ESP,1,3,2,6
+312,ESP_1984,Spain,ESP,1,2,2,5
+313,ESP_1988,Spain,ESP,1,1,2,4
+314,ESP_1992,Spain,ESP,13,7,2,22
+315,ESP_1996,Spain,ESP,5,6,6,17
+316,ESP_2000,Spain,ESP,3,3,5,11
+317,ESP_2004,Spain,ESP,3,11,5,19
+318,ESP_2008,Spain,ESP,6,10,3,19
+319,EST_1920,Estonia,EST,1,2,0,3
+320,EST_1924,Estonia,EST,1,1,4,6
+321,EST_1928,Estonia,EST,2,1,2,5
+322,EST_1936,Estonia,EST,2,2,3,7
+323,EST_1992,Estonia,EST,1,0,1,2
+324,EST_2000,Estonia,EST,1,0,2,3
+325,EST_2004,Estonia,EST,0,1,2,3
+326,EST_2008,Estonia,EST,1,1,0,2
+327,ETH_1960,Ethiopia,ETH,1,0,0,1
+328,ETH_1964,Ethiopia,ETH,1,0,0,1
+329,ETH_1968,Ethiopia,ETH,1,1,0,2
+330,ETH_1972,Ethiopia,ETH,0,0,2,2
+331,ETH_1980,Ethiopia,ETH,2,0,2,4
+332,ETH_1992,Ethiopia,ETH,1,0,2,3
+333,ETH_1996,Ethiopia,ETH,2,0,1,3
+334,ETH_2000,Ethiopia,ETH,4,1,3,8
+335,ETH_2004,Ethiopia,ETH,2,3,2,7
+336,ETH_2008,Ethiopia,ETH,4,1,2,7
+337,FIN_1906,Finland,FIN,2,1,1,4
+338,FIN_1908,Finland,FIN,1,1,3,5
+339,FIN_1912,Finland,FIN,9,8,9,26
+340,FIN_1920,Finland,FIN,15,10,9,34
+341,FIN_1924,Finland,FIN,14,13,10,37
+342,FIN_1928,Finland,FIN,8,8,9,25
+343,FIN_1932,Finland,FIN,5,8,12,25
+344,FIN_1936,Finland,FIN,8,6,6,20
+345,FIN_1948,Finland,FIN,10,8,6,24
+346,FIN_1952,Finland,FIN,6,3,13,22
+347,FIN_1956,Finland,FIN,3,1,11,15
+348,FIN_1960,Finland,FIN,1,1,3,5
+349,FIN_1964,Finland,FIN,3,0,2,5
+350,FIN_1968,Finland,FIN,1,2,1,4
+351,FIN_1972,Finland,FIN,3,1,4,8
+352,FIN_1976,Finland,FIN,4,2,0,6
+353,FIN_1980,Finland,FIN,3,1,4,8
+354,FIN_1984,Finland,FIN,4,2,6,12
+355,FIN_1988,Finland,FIN,1,1,2,4
+356,FIN_1992,Finland,FIN,1,2,2,5
+357,FIN_1996,Finland,FIN,1,2,1,4
+358,FIN_2000,Finland,FIN,2,1,1,4
+359,FIN_2004,Finland,FIN,0,2,0,2
+360,FIN_2008,Finland,FIN,1,1,2,4
+361,FRA_1896,France,FRA,5,4,2,11
+362,FRA_1900,France,FRA,28,44,36,108
+363,FRA_1906,France,FRA,15,9,16,40
+364,FRA_1908,France,FRA,5,5,9,19
+365,FRA_1912,France,FRA,8,5,3,16
+366,FRA_1920,France,FRA,9,20,13,42
+367,FRA_1924,France,FRA,14,15,12,41
+368,FRA_1928,France,FRA,7,12,6,25
+369,FRA_1932,France,FRA,11,5,4,20
+370,FRA_1936,France,FRA,7,6,6,19
+371,FRA_1948,France,FRA,11,6,15,32
+372,FRA_1952,France,FRA,6,6,6,18
+373,FRA_1956,France,FRA,4,4,6,14
+374,FRA_1960,France,FRA,0,2,3,5
+375,FRA_1964,France,FRA,1,8,6,15
+376,FRA_1968,France,FRA,7,3,5,15
+377,FRA_1972,France,FRA,2,4,7,13
+378,FRA_1976,France,FRA,2,3,4,9
+379,FRA_1980,France,FRA,6,5,3,14
+380,FRA_1984,France,FRA,5,7,16,28
+381,FRA_1988,France,FRA,6,4,6,16
+382,FRA_1992,France,FRA,8,5,16,29
+383,FRA_1996,France,FRA,15,7,15,37
+384,FRA_2000,France,FRA,13,14,11,38
+385,FRA_2004,France,FRA,11,9,13,33
+386,FRA_2008,France,FRA,7,16,17,40
+387,FRG_1968,West Germany,FRG,5,11,10,26
+388,FRG_1972,West Germany,FRG,13,11,16,40
+389,FRG_1976,West Germany,FRG,10,12,17,39
+390,FRG_1984,West Germany,FRG,17,19,23,59
+391,FRG_1988,West Germany,FRG,11,14,15,40
+392,GBR_1896,United Kingdom,GBR,2,3,2,7
+393,GBR_1900,United Kingdom,GBR,16,6,9,31
+394,GBR_1904,United Kingdom,GBR,1,1,0,2
+395,GBR_1906,United Kingdom,GBR,8,11,5,24
+396,GBR_1908,United Kingdom,GBR,56,51,38,145
+397,GBR_1912,United Kingdom,GBR,10,15,16,41
+398,GBR_1920,United Kingdom,GBR,15,16,13,44
+399,GBR_1924,United Kingdom,GBR,10,14,12,36
+400,GBR_1928,United Kingdom,GBR,4,11,7,22
+401,GBR_1932,United Kingdom,GBR,5,7,5,17
+402,GBR_1936,United Kingdom,GBR,4,7,3,14
+403,GBR_1948,United Kingdom,GBR,4,15,7,26
+404,GBR_1952,United Kingdom,GBR,1,2,8,11
+405,GBR_1956,United Kingdom,GBR,6,7,11,24
+406,GBR_1960,United Kingdom,GBR,2,6,12,20
+407,GBR_1964,United Kingdom,GBR,4,12,2,18
+408,GBR_1968,United Kingdom,GBR,5,5,3,13
+409,GBR_1972,United Kingdom,GBR,4,5,9,18
+410,GBR_1976,United Kingdom,GBR,3,5,5,13
+411,GBR_1980,United Kingdom,GBR,5,7,9,21
+412,GBR_1984,United Kingdom,GBR,5,11,21,37
+413,GBR_1988,United Kingdom,GBR,5,10,9,24
+414,GBR_1992,United Kingdom,GBR,5,3,12,20
+415,GBR_1996,United Kingdom,GBR,1,8,6,15
+416,GBR_2000,United Kingdom,GBR,11,10,7,28
+417,GBR_2004,United Kingdom,GBR,9,9,12,30
+418,GBR_2008,United Kingdom,GBR,19,13,15,47
+419,GDR_1968,East Germany,GDR,9,9,7,25
+420,GDR_1972,East Germany,GDR,20,23,23,66
+421,GDR_1976,East Germany,GDR,40,25,25,90
+422,GDR_1980,East Germany,GDR,47,37,42,126
+423,GDR_1988,East Germany,GDR,37,35,30,102
+424,GEO_1996,Georgia,GEO,0,0,2,2
+425,GEO_2000,Georgia,GEO,0,0,6,6
+426,GEO_2004,Georgia,GEO,2,2,0,4
+427,GEO_2008,Georgia,GEO,3,0,3,6
+428,GER_1928,Germany,GER,11,9,19,39
+429,GER_1932,Germany,GER,5,12,7,24
+430,GER_1936,Germany,GER,38,31,32,101
+431,GER_1952,Germany,GER,0,7,17,24
+432,GER_1956,Germany,GER,6,13,7,26
+433,GER_1960,Germany,GER,12,19,11,42
+434,GER_1964,Germany,GER,10,22,18,50
+435,GER_1992,Germany,GER,33,21,28,82
+436,GER_1996,Germany,GER,20,18,27,65
+437,GER_2000,Germany,GER,13,17,26,56
+438,GER_2004,Germany,GER,13,16,20,49
+439,GER_2008,Germany,GER,16,10,15,41
+440,GHA_1960,Ghana,GHA,0,1,0,1
+441,GHA_1964,Ghana,GHA,0,0,1,1
+442,GHA_1972,Ghana,GHA,0,0,1,1
+443,GHA_1992,Ghana,GHA,0,0,1,1
+444,GRE_1896,Greece,GRE,10,17,19,46
+445,GRE_1904,Greece,GRE,1,0,1,2
+446,GRE_1906,Greece,GRE,8,13,13,34
+447,GRE_1908,Greece,GRE,0,3,0,3
+448,GRE_1912,Greece,GRE,1,0,1,2
+449,GRE_1920,Greece,GRE,0,1,0,1
+450,GRE_1924,Greece,GRE,1,0,0,1
+451,GRE_1956,Greece,GRE,0,0,1,1
+452,GRE_1960,Greece,GRE,1,0,0,1
+453,GRE_1968,Greece,GRE,0,0,1,1
+454,GRE_1972,Greece,GRE,0,2,0,2
+455,GRE_1980,Greece,GRE,1,0,2,3
+456,GRE_1984,Greece,GRE,0,1,1,2
+457,GRE_1988,Greece,GRE,0,0,1,1
+458,GRE_1992,Greece,GRE,2,0,0,2
+459,GRE_1996,Greece,GRE,4,4,0,8
+460,GRE_2000,Greece,GRE,5,5,3,13
+461,GRE_2004,Greece,GRE,6,6,4,16
+462,GRE_2008,Greece,GRE,0,2,2,4
+463,GUY_1980,Guyana,GUY,0,0,1,1
+464,HAI_1924,Haiti,HAI,0,0,1,1
+465,HAI_1928,Haiti,HAI,0,1,0,1
+466,HKG_1996,Hong Kong,HKG,1,0,0,1
+467,HKG_2004,Hong Kong,HKG,0,1,0,1
+468,HUN_1896,Hungary,HUN,2,1,3,6
+469,HUN_1900,Hungary,HUN,1,2,2,5
+470,HUN_1904,Hungary,HUN,2,1,1,4
+471,HUN_1906,Hungary,HUN,2,5,3,10
+472,HUN_1908,Hungary,HUN,3,4,2,9
+473,HUN_1912,Hungary,HUN,3,2,3,8
+474,HUN_1924,Hungary,HUN,2,4,4,10
+475,HUN_1928,Hungary,HUN,5,5,0,10
+476,HUN_1932,Hungary,HUN,6,5,5,16
+477,HUN_1936,Hungary,HUN,10,1,5,16
+478,HUN_1948,Hungary,HUN,10,5,12,27
+479,HUN_1952,Hungary,HUN,16,10,16,42
+480,HUN_1956,Hungary,HUN,9,10,7,26
+481,HUN_1960,Hungary,HUN,6,8,7,21
+482,HUN_1964,Hungary,HUN,10,7,5,22
+483,HUN_1968,Hungary,HUN,10,10,12,32
+484,HUN_1972,Hungary,HUN,6,13,16,35
+485,HUN_1976,Hungary,HUN,4,5,13,22
+486,HUN_1980,Hungary,HUN,7,10,15,32
+487,HUN_1988,Hungary,HUN,11,6,6,23
+488,HUN_1992,Hungary,HUN,11,12,7,30
+489,HUN_1996,Hungary,HUN,7,4,10,21
+490,HUN_2000,Hungary,HUN,8,6,3,17
+491,HUN_2004,Hungary,HUN,8,6,3,17
+492,HUN_2008,Hungary,HUN,3,5,2,10
+493,INA_1988,Indonesia,INA,0,1,0,1
+494,INA_1992,Indonesia,INA,2,2,1,5
+495,INA_1996,Indonesia,INA,1,1,2,4
+496,INA_2000,Indonesia,INA,1,3,2,6
+497,INA_2004,Indonesia,INA,1,1,2,4
+498,INA_2008,Indonesia,INA,1,1,3,5
+499,IND_1948,India,IND,1,1,0,2
+500,IND_1952,India,IND,1,0,1,2
+501,IND_1956,India,IND,1,0,0,1
+502,IND_1960,India,IND,0,1,0,1
+503,IND_1964,India,IND,1,0,0,1
+504,IND_1968,India,IND,0,0,1,1
+505,IND_1972,India,IND,0,0,1,1
+506,IND_1980,India,IND,1,0,0,1
+507,IND_1996,India,IND,0,0,1,1
+508,IND_2000,India,IND,0,0,1,1
+509,IND_2004,India,IND,0,1,0,1
+510,IND_2008,India,IND,1,0,2,3
+511,INT_1896,International Team,INT,1,1,1,3
+512,INT_1900,International Team,INT,6,3,3,12
+513,INT_1904,International Team,INT,1,1,0,2
+514,INT_1906,International Team,INT,0,2,0,2
+515,IRI_1948,Iran,IRI,0,0,1,1
+516,IRI_1952,Iran,IRI,0,3,4,7
+517,IRI_1956,Iran,IRI,2,2,1,5
+518,IRI_1960,Iran,IRI,0,1,3,4
+519,IRI_1964,Iran,IRI,0,0,2,2
+520,IRI_1968,Iran,IRI,2,1,2,5
+521,IRI_1972,Iran,IRI,0,2,1,3
+522,IRI_1976,Iran,IRI,0,1,1,2
+523,IRI_1988,Iran,IRI,0,1,0,1
+524,IRI_1992,Iran,IRI,0,1,2,3
+525,IRI_1996,Iran,IRI,1,1,1,3
+526,IRI_2000,Iran,IRI,3,0,1,4
+527,IRI_2004,Iran,IRI,2,2,2,6
+528,IRL_1924,Ireland,IRL,0,1,1,2
+529,IRL_1928,Ireland,IRL,1,0,0,1
+530,IRL_1932,Ireland,IRL,2,0,0,2
+531,IRL_1948,Ireland,IRL,0,0,1,1
+532,IRL_1952,Ireland,IRL,0,1,0,1
+533,IRL_1956,Ireland,IRL,1,1,3,5
+534,IRL_1964,Ireland,IRL,0,0,1,1
+535,IRL_1980,Ireland,IRL,0,1,1,2
+536,IRL_1984,Ireland,IRL,0,1,0,1
+537,IRL_1992,Ireland,IRL,1,1,0,2
+538,IRL_1996,Ireland,IRL,3,0,1,4
+539,IRL_2000,Ireland,IRL,0,1,0,1
+540,IRL_2008,Ireland,IRL,0,1,2,3
+541,IRQ_1960,Iraq,IRQ,0,0,1,1
+542,ISL_1956,Iceland,ISL,0,1,0,1
+543,ISL_1984,Iceland,ISL,0,0,1,1
+544,ISL_2000,Iceland,ISL,0,0,1,1
+545,ISR_1992,Israel,ISR,0,1,1,2
+546,ISR_1996,Israel,ISR,0,0,1,1
+547,ISR_2000,Israel,ISR,0,0,1,1
+548,ISR_2004,Israel,ISR,1,0,1,2
+549,ISR_2008,Israel,ISR,0,0,1,1
+550,ISV_1988,Virgin Islands US,ISV,0,1,0,1
+551,ITA_1948,Italy,ITA,9,12,10,31
+552,ITA_1952,Italy,ITA,8,9,4,21
+553,ITA_1956,Italy,ITA,8,8,9,25
+554,ITA_1960,Italy,ITA,13,10,13,36
+555,ITA_1964,Italy,ITA,10,10,7,27
+556,ITA_1968,Italy,ITA,3,4,9,16
+557,ITA_1972,Italy,ITA,5,3,10,18
+558,ITA_1976,Italy,ITA,2,7,4,13
+559,ITA_1980,Italy,ITA,8,3,4,15
+560,ITA_1984,Italy,ITA,14,6,12,32
+561,ITA_1988,Italy,ITA,6,4,4,14
+562,ITA_1992,Italy,ITA,6,5,8,19
+563,ITA_1996,Italy,ITA,13,10,12,35
+564,ITA_2000,Italy,ITA,13,8,13,34
+565,ITA_2004,Italy,ITA,10,11,11,32
+566,ITA_2008,Italy,ITA,8,10,10,28
+567,JAM_1948,Jamaica,JAM,1,2,0,3
+568,JAM_1952,Jamaica,JAM,2,3,0,5
+569,JAM_1968,Jamaica,JAM,0,1,0,1
+570,JAM_1972,Jamaica,JAM,0,0,1,1
+571,JAM_1976,Jamaica,JAM,1,1,0,2
+572,JAM_1980,Jamaica,JAM,0,0,3,3
+573,JAM_1984,Jamaica,JAM,0,1,2,3
+574,JAM_1988,Jamaica,JAM,0,2,0,2
+575,JAM_1992,Jamaica,JAM,0,3,1,4
+576,JAM_1996,Jamaica,JAM,1,3,2,6
+577,JAM_2000,Jamaica,JAM,0,5,4,9
+578,JAM_2004,Jamaica,JAM,2,1,2,5
+579,JAM_2008,Jamaica,JAM,6,2,2,10
+580,JPN_1920,Japan,JPN,0,2,0,2
+581,JPN_1924,Japan,JPN,0,0,1,1
+582,JPN_1928,Japan,JPN,2,2,1,5
+583,JPN_1932,Japan,JPN,7,7,4,18
+584,JPN_1936,Japan,JPN,6,4,10,20
+585,JPN_1952,Japan,JPN,1,6,2,9
+586,JPN_1956,Japan,JPN,4,10,5,19
+587,JPN_1960,Japan,JPN,4,7,7,18
+588,JPN_1964,Japan,JPN,16,5,8,29
+589,JPN_1968,Japan,JPN,11,7,7,25
+590,JPN_1972,Japan,JPN,13,8,8,29
+591,JPN_1976,Japan,JPN,9,6,10,25
+592,JPN_1984,Japan,JPN,10,8,14,32
+593,JPN_1988,Japan,JPN,4,3,7,14
+594,JPN_1992,Japan,JPN,3,8,11,22
+595,JPN_1996,Japan,JPN,3,6,5,14
+596,JPN_2000,Japan,JPN,5,8,5,18
+597,JPN_2004,Japan,JPN,16,9,12,37
+598,JPN_2008,Japan,JPN,9,5,9,23
+599,KAZ_1996,Kazakhstan,KAZ,3,4,4,11
+600,KAZ_2000,Kazakhstan,KAZ,3,4,0,7
+601,KAZ_2004,Kazakhstan,KAZ,1,4,3,8
+602,KAZ_2008,Kazakhstan,KAZ,2,4,6,12
+603,KEN_1964,Kenya,KEN,0,0,1,1
+604,KEN_1968,Kenya,KEN,3,4,2,9
+605,KEN_1972,Kenya,KEN,2,3,4,9
+606,KEN_1984,Kenya,KEN,1,0,2,3
+607,KEN_1988,Kenya,KEN,5,2,2,9
+608,KEN_1992,Kenya,KEN,2,4,2,8
+609,KEN_1996,Kenya,KEN,1,4,3,8
+610,KEN_2000,Kenya,KEN,2,3,2,7
+611,KEN_2004,Kenya,KEN,1,4,2,7
+612,KEN_2008,Kenya,KEN,5,5,4,14
+613,KGZ_2000,Kyrgyzstan,KGZ,0,0,1,1
+614,KGZ_2008,Kyrgyzstan,KGZ,0,1,1,2
+615,KIT_1900,Italy (until 1946),KIT,2,2,0,4
+616,KIT_1906,Italy (until 1946),KIT,7,6,3,16
+617,KIT_1908,Italy (until 1946),KIT,2,2,0,4
+618,KIT_1912,Italy (until 1946),KIT,5,1,2,8
+619,KIT_1920,Italy (until 1946),KIT,14,6,5,25
+620,KIT_1924,Italy (until 1946),KIT,8,3,5,16
+621,KIT_1928,Italy (until 1946),KIT,7,6,7,20
+622,KIT_1932,Italy (until 1946),KIT,12,12,12,36
+623,KIT_1936,Italy (until 1946),KIT,9,13,5,27
+624,KOR_1948,South Korea,KOR,0,0,2,2
+625,KOR_1952,South Korea,KOR,0,0,2,2
+626,KOR_1956,South Korea,KOR,0,1,1,2
+627,KOR_1964,South Korea,KOR,0,2,1,3
+628,KOR_1968,South Korea,KOR,0,1,1,2
+629,KOR_1972,South Korea,KOR,0,1,0,1
+630,KOR_1976,South Korea,KOR,1,1,4,6
+631,KOR_1984,South Korea,KOR,6,6,7,19
+632,KOR_1988,South Korea,KOR,12,10,11,33
+633,KOR_1992,South Korea,KOR,12,5,12,29
+634,KOR_1996,South Korea,KOR,7,15,5,27
+635,KOR_2000,South Korea,KOR,8,10,10,28
+636,KOR_2004,South Korea,KOR,9,12,9,30
+637,KOR_2008,South Korea,KOR,13,10,8,31
+638,KSA_2000,Saudi Arabia,KSA,0,1,1,2
+639,KUW_2000,Kuwait,KUW,0,0,1,1
+640,LAT_1932,Latvia,LAT,0,1,0,1
+641,LAT_1936,Latvia,LAT,0,1,1,2
+642,LAT_1992,Latvia,LAT,0,2,1,3
+643,LAT_1996,Latvia,LAT,0,1,0,1
+644,LAT_2000,Latvia,LAT,1,1,1,3
+645,LAT_2004,Latvia,LAT,0,4,0,4
+646,LAT_2008,Latvia,LAT,1,1,1,3
+647,LIB_1952,Lebanon,LIB,0,1,1,2
+648,LIB_1972,Lebanon,LIB,0,1,0,1
+649,LIB_1980,Lebanon,LIB,0,0,1,1
+650,LTU_1992,Lithuania,LTU,1,0,1,2
+651,LTU_1996,Lithuania,LTU,0,0,1,1
+652,LTU_2000,Lithuania,LTU,2,0,3,5
+653,LTU_2004,Lithuania,LTU,1,2,0,3
+654,LTU_2008,Lithuania,LTU,0,2,3,5
+655,LUX_1920,Luxembourg,LUX,0,1,0,1
+656,LUX_1924,Luxembourg,LUX,1,1,0,2
+657,LUX_1928,Luxembourg,LUX,1,0,0,1
+658,LUX_1952,Luxembourg,LUX,1,0,0,1
+659,MAR_1960,Morocco,MAR,0,1,0,1
+660,MAR_1984,Morocco,MAR,2,0,0,2
+661,MAR_1988,Morocco,MAR,1,0,2,3
+662,MAR_1992,Morocco,MAR,1,1,1,3
+663,MAR_1996,Morocco,MAR,0,0,2,2
+664,MAR_2000,Morocco,MAR,0,1,4,5
+665,MAR_2004,Morocco,MAR,2,1,0,3
+666,MAR_2008,Morocco,MAR,0,1,1,2
+667,MAS_1992,Malaysia,MAS,0,0,1,1
+668,MAS_1996,Malaysia,MAS,0,1,1,2
+669,MAS_2008,Malaysia,MAS,0,1,0,1
+670,MDA_1996,Moldova,MDA,0,1,1,2
+671,MDA_2000,Moldova,MDA,0,1,1,2
+672,MDA_2008,Moldova,MDA,0,0,1,1
+673,MEX_1900,Mexico,MEX,0,0,1,1
+674,MEX_1932,Mexico,MEX,0,2,0,2
+675,MEX_1936,Mexico,MEX,0,0,3,3
+676,MEX_1948,Mexico,MEX,2,1,2,5
+677,MEX_1952,Mexico,MEX,0,1,0,1
+678,MEX_1956,Mexico,MEX,1,0,1,2
+679,MEX_1960,Mexico,MEX,0,0,1,1
+680,MEX_1964,Mexico,MEX,0,0,1,1
+681,MEX_1968,Mexico,MEX,3,3,3,9
+682,MEX_1972,Mexico,MEX,0,1,0,1
+683,MEX_1976,Mexico,MEX,1,0,1,2
+684,MEX_1980,Mexico,MEX,0,1,3,4
+685,MEX_1984,Mexico,MEX,2,3,1,6
+686,MEX_1988,Mexico,MEX,0,0,2,2
+687,MEX_1992,Mexico,MEX,0,1,0,1
+688,MEX_1996,Mexico,MEX,0,0,1,1
+689,MEX_2000,Mexico,MEX,1,2,3,6
+690,MEX_2004,Mexico,MEX,0,3,1,4
+691,MEX_2008,Mexico,MEX,2,0,1,3
+692,MGL_1968,Mongolia,MGL,0,1,3,4
+693,MGL_1972,Mongolia,MGL,0,1,0,1
+694,MGL_1976,Mongolia,MGL,0,1,0,1
+695,MGL_1980,Mongolia,MGL,0,2,2,4
+696,MGL_1988,Mongolia,MGL,0,0,1,1
+697,MGL_1992,Mongolia,MGL,0,0,2,2
+698,MGL_1996,Mongolia,MGL,0,0,1,1
+699,MGL_2004,Mongolia,MGL,0,0,1,1
+700,MGL_2008,Mongolia,MGL,2,2,0,4
+701,MKD_2000,Macedonia,MKD,0,0,1,1
+702,MON_1924,Monaco,MON,0,0,1,1
+703,MOZ_1996,Mozambique,MOZ,0,0,1,1
+704,MOZ_2000,Mozambique,MOZ,1,0,0,1
+705,MRI_2008,Mauritius,MRI,0,0,1,1
+706,NAM_1992,Namibia,NAM,0,2,0,2
+707,NAM_1996,Namibia,NAM,0,2,0,2
+708,NED_1900,Netherlands,NED,0,1,3,4
+709,NED_1906,Netherlands,NED,0,1,2,3
+710,NED_1908,Netherlands,NED,0,0,2,2
+711,NED_1912,Netherlands,NED,0,0,3,3
+712,NED_1920,Netherlands,NED,4,2,5,11
+713,NED_1924,Netherlands,NED,4,1,6,11
+714,NED_1928,Netherlands,NED,8,10,5,23
+715,NED_1932,Netherlands,NED,2,5,1,8
+716,NED_1936,Netherlands,NED,6,4,7,17
+717,NED_1948,Netherlands,NED,5,2,9,16
+718,NED_1952,Netherlands,NED,0,5,0,5
+719,NED_1960,Netherlands,NED,0,1,2,3
+720,NED_1964,Netherlands,NED,2,4,4,10
+721,NED_1968,Netherlands,NED,3,3,1,7
+722,NED_1972,Netherlands,NED,3,1,1,5
+723,NED_1976,Netherlands,NED,0,2,3,5
+724,NED_1980,Netherlands,NED,0,1,2,3
+725,NED_1984,Netherlands,NED,5,2,6,13
+726,NED_1988,Netherlands,NED,2,2,5,9
+727,NED_1992,Netherlands,NED,2,6,7,15
+728,NED_1996,Netherlands,NED,4,5,10,19
+729,NED_2000,Netherlands,NED,12,9,4,25
+730,NED_2004,Netherlands,NED,4,9,9,22
+731,NED_2008,Netherlands,NED,7,5,3,15
+732,NGR_1964,Nigeria,NGR,0,0,1,1
+733,NGR_1972,Nigeria,NGR,0,0,1,1
+734,NGR_1984,Nigeria,NGR,0,1,1,2
+735,NGR_1992,Nigeria,NGR,0,3,1,4
+736,NGR_1996,Nigeria,NGR,2,1,3,6
+737,NGR_2000,Nigeria,NGR,0,3,0,3
+738,NGR_2004,Nigeria,NGR,0,0,2,2
+739,NGR_2008,Nigeria,NGR,0,1,3,4
+740,NIG_1972,Niger,NIG,0,0,1,1
+741,NOR_1900,Norway,NOR,0,2,3,5
+742,NOR_1906,Norway,NOR,4,2,1,7
+743,NOR_1908,Norway,NOR,2,3,3,8
+744,NOR_1912,Norway,NOR,4,1,4,9
+745,NOR_1920,Norway,NOR,13,10,9,32
+746,NOR_1924,Norway,NOR,5,2,3,10
+747,NOR_1928,Norway,NOR,1,2,1,4
+748,NOR_1936,Norway,NOR,1,3,2,6
+749,NOR_1948,Norway,NOR,1,3,3,7
+750,NOR_1952,Norway,NOR,3,2,0,5
+751,NOR_1956,Norway,NOR,1,0,2,3
+752,NOR_1960,Norway,NOR,1,0,0,1
+753,NOR_1968,Norway,NOR,1,1,0,2
+754,NOR_1972,Norway,NOR,2,1,1,4
+755,NOR_1976,Norway,NOR,1,1,0,2
+756,NOR_1984,Norway,NOR,0,1,2,3
+757,NOR_1988,Norway,NOR,2,3,0,5
+758,NOR_1992,Norway,NOR,2,4,1,7
+759,NOR_1996,Norway,NOR,2,2,3,7
+760,NOR_2000,Norway,NOR,4,3,3,10
+761,NOR_2004,Norway,NOR,5,0,1,6
+762,NOR_2008,Norway,NOR,3,5,2,10
+763,NZL_1920,New Zealand,NZL,0,0,1,1
+764,NZL_1924,New Zealand,NZL,0,0,1,1
+765,NZL_1928,New Zealand,NZL,1,0,0,1
+766,NZL_1932,New Zealand,NZL,0,1,0,1
+767,NZL_1936,New Zealand,NZL,1,0,0,1
+768,NZL_1952,New Zealand,NZL,1,0,2,3
+769,NZL_1956,New Zealand,NZL,2,0,0,2
+770,NZL_1960,New Zealand,NZL,2,0,1,3
+771,NZL_1964,New Zealand,NZL,3,0,2,5
+772,NZL_1968,New Zealand,NZL,1,0,2,3
+773,NZL_1972,New Zealand,NZL,1,1,1,3
+774,NZL_1976,New Zealand,NZL,2,1,1,4
+775,NZL_1984,New Zealand,NZL,8,1,2,11
+776,NZL_1988,New Zealand,NZL,3,2,8,13
+777,NZL_1992,New Zealand,NZL,1,4,5,10
+778,NZL_1996,New Zealand,NZL,3,2,1,6
+779,NZL_2000,New Zealand,NZL,1,0,3,4
+780,NZL_2004,New Zealand,NZL,3,2,0,5
+781,NZL_2008,New Zealand,NZL,3,1,5,9
+782,PAK_1956,Pakistan,PAK,0,1,0,1
+783,PAK_1960,Pakistan,PAK,1,0,1,2
+784,PAK_1964,Pakistan,PAK,0,1,0,1
+785,PAK_1968,Pakistan,PAK,1,0,0,1
+786,PAK_1972,Pakistan,PAK,0,1,0,1
+787,PAK_1976,Pakistan,PAK,0,0,1,1
+788,PAK_1984,Pakistan,PAK,1,0,0,1
+789,PAK_1988,Pakistan,PAK,0,0,1,1
+790,PAK_1992,Pakistan,PAK,0,0,1,1
+791,PAN_1948,Panama,PAN,0,0,2,2
+792,PAN_2008,Panama,PAN,1,0,0,1
+793,PAR_2004,Paraguay,PAR,0,1,0,1
+794,PER_1948,Peru,PER,1,0,0,1
+795,PER_1984,Peru,PER,0,1,0,1
+796,PER_1988,Peru,PER,0,1,0,1
+797,PER_1992,Peru,PER,0,1,0,1
+798,PHI_1928,Philippines,PHI,0,0,1,1
+799,PHI_1932,Philippines,PHI,0,0,3,3
+800,PHI_1936,Philippines,PHI,0,0,1,1
+801,PHI_1964,Philippines,PHI,0,1,0,1
+802,PHI_1988,Philippines,PHI,0,0,1,1
+803,PHI_1992,Philippines,PHI,0,0,1,1
+804,PHI_1996,Philippines,PHI,0,1,0,1
+805,POL_1924,Poland,POL,0,1,1,2
+806,POL_1928,Poland,POL,2,1,4,7
+807,POL_1932,Poland,POL,3,2,4,9
+808,POL_1936,Poland,POL,0,4,5,9
+809,POL_1948,Poland,POL,1,0,1,2
+810,POL_1952,Poland,POL,1,2,1,4
+811,POL_1956,Poland,POL,1,4,4,9
+812,POL_1960,Poland,POL,4,6,11,21
+813,POL_1964,Poland,POL,7,6,10,23
+814,POL_1968,Poland,POL,5,2,11,18
+815,POL_1972,Poland,POL,7,5,9,21
+816,POL_1976,Poland,POL,7,6,13,26
+817,POL_1980,Poland,POL,3,14,15,32
+818,POL_1988,Poland,POL,2,5,9,16
+819,POL_1992,Poland,POL,3,6,10,19
+820,POL_1996,Poland,POL,7,5,5,17
+821,POL_2000,Poland,POL,6,5,3,14
+822,POL_2004,Poland,POL,3,2,5,10
+823,POL_2008,Poland,POL,3,6,1,10
+824,POR_1924,Portugal,POR,0,0,1,1
+825,POR_1928,Portugal,POR,0,0,1,1
+826,POR_1936,Portugal,POR,0,0,1,1
+827,POR_1948,Portugal,POR,0,1,1,2
+828,POR_1952,Portugal,POR,0,0,1,1
+829,POR_1960,Portugal,POR,0,1,0,1
+830,POR_1976,Portugal,POR,0,2,0,2
+831,POR_1984,Portugal,POR,1,0,2,3
+832,POR_1988,Portugal,POR,1,0,0,1
+833,POR_1996,Portugal,POR,1,0,1,2
+834,POR_2000,Portugal,POR,0,0,2,2
+835,POR_2004,Portugal,POR,0,2,1,3
+836,POR_2008,Portugal,POR,1,1,0,2
+837,PRK_1972,North Korea,PRK,1,1,3,5
+838,PRK_1976,North Korea,PRK,1,1,0,2
+839,PRK_1980,North Korea,PRK,0,3,2,5
+840,PRK_1992,North Korea,PRK,4,0,5,9
+841,PRK_1996,North Korea,PRK,2,1,2,5
+842,PRK_2000,North Korea,PRK,0,1,3,4
+843,PRK_2004,North Korea,PRK,0,4,1,5
+844,PRK_2008,North Korea,PRK,2,1,3,6
+845,PUR_1948,Puerto Rico,PUR,0,0,1,1
+846,PUR_1976,Puerto Rico,PUR,0,0,1,1
+847,PUR_1984,Puerto Rico,PUR,0,1,1,2
+848,PUR_1992,Puerto Rico,PUR,0,0,1,1
+849,PUR_1996,Puerto Rico,PUR,0,0,1,1
+850,QAT_1992,Qatar,QAT,0,0,1,1
+851,QAT_2000,Qatar,QAT,0,0,1,1
+852,ROM_1924,Romania,ROM,0,0,1,1
+853,ROM_1936,Romania,ROM,0,1,0,1
+854,ROM_1952,Romania,ROM,1,1,2,4
+855,ROM_1956,Romania,ROM,5,3,5,13
+856,ROM_1960,Romania,ROM,3,1,6,10
+857,ROM_1964,Romania,ROM,2,4,6,12
+858,ROM_1968,Romania,ROM,4,6,5,15
+859,ROM_1972,Romania,ROM,3,6,7,16
+860,ROM_1976,Romania,ROM,4,9,14,27
+861,ROM_1980,Romania,ROM,6,6,13,25
+862,ROM_1984,Romania,ROM,20,16,17,53
+863,ROM_1988,Romania,ROM,7,11,6,24
+864,ROM_1992,Romania,ROM,4,6,8,18
+865,ROM_1996,Romania,ROM,4,7,9,20
+866,ROM_2000,Romania,ROM,11,6,8,25
+867,ROM_2004,Romania,ROM,8,5,6,19
+868,ROM_2008,Romania,ROM,4,1,3,8
+869,RSA_1992,South Africa,RSA,0,2,0,2
+870,RSA_1996,South Africa,RSA,3,1,1,5
+871,RSA_2000,South Africa,RSA,0,2,3,5
+872,RSA_2004,South Africa,RSA,1,3,2,6
+873,RSA_2008,South Africa,RSA,0,1,0,1
+874,RUS_1908,Russia,RUS,1,2,0,3
+875,RUS_1912,Russia,RUS,0,2,3,5
+876,RUS_1996,Russia,RUS,26,21,16,63
+877,RUS_2000,Russia,RUS,32,28,28,88
+878,RUS_2004,Russia,RUS,27,27,38,92
+879,RUS_2008,Russia,RUS,23,21,28,72
+880,SAF_1908,South Africa (until 1960),SAF,1,1,0,2
+881,SAF_1912,South Africa (until 1960),SAF,4,2,0,6
+882,SAF_1920,South Africa (until 1960),SAF,3,4,3,10
+883,SAF_1924,South Africa (until 1960),SAF,1,1,1,3
+884,SAF_1928,South Africa (until 1960),SAF,1,0,2,3
+885,SAF_1932,South Africa (until 1960),SAF,2,0,3,5
+886,SAF_1936,South Africa (until 1960),SAF,0,1,0,1
+887,SAF_1948,South Africa (until 1960),SAF,2,2,2,6
+888,SAF_1952,South Africa (until 1960),SAF,2,4,4,10
+889,SAF_1956,South Africa (until 1960),SAF,0,0,4,4
+890,SAF_1960,South Africa (until 1960),SAF,0,1,2,3
+891,SEN_1988,Senegal,SEN,0,1,0,1
+892,SIN_1960,Singapore,SIN,0,1,0,1
+893,SIN_2008,Singapore,SIN,0,1,0,1
+894,SLO_1992,Slovenia,SLO,0,0,2,2
+895,SLO_1996,Slovenia,SLO,0,2,0,2
+896,SLO_2000,Slovenia,SLO,2,0,0,2
+897,SLO_2004,Slovenia,SLO,0,1,3,4
+898,SLO_2008,Slovenia,SLO,1,2,2,5
+899,SRB_2008,Serbia,SRB,0,1,2,3
+900,SRI_1948,Sri Lanka,SRI,0,1,0,1
+901,SRI_2000,Sri Lanka,SRI,0,1,0,1
+902,SUD_2008,Sudan,SUD,0,1,0,1
+903,SUI_1896,Switzerland,SUI,1,2,0,3
+904,SUI_1900,Switzerland,SUI,6,2,1,9
+905,SUI_1904,Switzerland,SUI,1,0,1,2
+906,SUI_1906,Switzerland,SUI,5,6,4,15
+907,SUI_1912,Switzerland,SUI,1,0,0,1
+908,SUI_1920,Switzerland,SUI,2,2,7,11
+909,SUI_1924,Switzerland,SUI,7,8,10,25
+910,SUI_1928,Switzerland,SUI,7,6,4,17
+911,SUI_1932,Switzerland,SUI,0,1,0,1
+912,SUI_1936,Switzerland,SUI,4,9,5,18
+913,SUI_1948,Switzerland,SUI,5,12,5,22
+914,SUI_1952,Switzerland,SUI,2,6,6,14
+915,SUI_1956,Switzerland,SUI,0,0,1,1
+916,SUI_1960,Switzerland,SUI,0,3,3,6
+917,SUI_1964,Switzerland,SUI,1,2,1,4
+918,SUI_1968,Switzerland,SUI,0,1,4,5
+919,SUI_1972,Switzerland,SUI,0,3,0,3
+920,SUI_1976,Switzerland,SUI,1,1,2,4
+921,SUI_1980,Switzerland,SUI,2,0,0,2
+922,SUI_1984,Switzerland,SUI,0,4,4,8
+923,SUI_1988,Switzerland,SUI,0,2,2,4
+924,SUI_1992,Switzerland,SUI,1,0,0,1
+925,SUI_1996,Switzerland,SUI,4,3,0,7
+926,SUI_2000,Switzerland,SUI,1,6,2,9
+927,SUI_2004,Switzerland,SUI,1,1,3,5
+928,SUI_2008,Switzerland,SUI,1,0,4,5
+929,SUR_1988,Suriname,SUR,1,0,0,1
+930,SUR_1992,Suriname,SUR,0,0,1,1
+931,SVK_1996,Slovak Rep.,SVK,1,1,1,3
+932,SVK_2000,Slovak Rep.,SVK,1,3,1,5
+933,SVK_2004,Slovak Rep.,SVK,2,2,2,6
+934,SVK_2008,Slovak Rep.,SVK,3,2,1,6
+935,SWE_1900,Sweden,SWE,0,0,1,1
+936,SWE_1906,Sweden,SWE,2,5,7,14
+937,SWE_1908,Sweden,SWE,8,6,11,25
+938,SWE_1912,Sweden,SWE,24,24,17,65
+939,SWE_1920,Sweden,SWE,19,20,24,63
+940,SWE_1924,Sweden,SWE,4,13,12,29
+941,SWE_1928,Sweden,SWE,7,6,12,25
+942,SWE_1932,Sweden,SWE,10,5,9,24
+943,SWE_1936,Sweden,SWE,6,5,10,21
+944,SWE_1948,Sweden,SWE,17,11,18,46
+945,SWE_1952,Sweden,SWE,12,13,10,35
+946,SWE_1956,Sweden,SWE,8,5,6,19
+947,SWE_1960,Sweden,SWE,1,2,3,6
+948,SWE_1964,Sweden,SWE,2,2,4,8
+949,SWE_1968,Sweden,SWE,2,1,1,4
+950,SWE_1972,Sweden,SWE,4,6,6,16
+951,SWE_1976,Sweden,SWE,4,1,0,5
+952,SWE_1980,Sweden,SWE,3,3,6,12
+953,SWE_1984,Sweden,SWE,2,11,6,19
+954,SWE_1988,Sweden,SWE,0,4,7,11
+955,SWE_1992,Sweden,SWE,1,7,4,12
+956,SWE_1996,Sweden,SWE,2,4,2,8
+957,SWE_2000,Sweden,SWE,4,5,3,12
+958,SWE_2004,Sweden,SWE,4,2,1,7
+959,SWE_2008,Sweden,SWE,0,4,1,5
+960,SYR_1984,Syria,SYR,0,1,0,1
+961,SYR_1996,Syria,SYR,1,0,0,1
+962,SYR_2004,Syria,SYR,0,0,1,1
+963,TAN_1980,Tanzania,TAN,0,2,0,2
+964,TGA_1996,Tonga,TGA,0,1,0,1
+965,THA_1976,Thailand,THA,0,0,1,1
+966,THA_1984,Thailand,THA,0,1,0,1
+967,THA_1988,Thailand,THA,0,0,1,1
+968,THA_1992,Thailand,THA,0,0,1,1
+969,THA_1996,Thailand,THA,1,0,1,2
+970,THA_2000,Thailand,THA,1,0,2,3
+971,THA_2004,Thailand,THA,3,1,4,8
+972,THA_2008,Thailand,THA,2,2,0,4
+973,TJK_2008,Tajikistan,TJK,0,1,1,2
+974,TOG_2008,Togo,TOG,0,0,1,1
+975,TPE_1960,Taiwan,TPE,0,1,0,1
+976,TPE_1968,Taiwan,TPE,0,0,1,1
+977,TPE_1984,Taiwan,TPE,0,0,1,1
+978,TPE_1992,Taiwan,TPE,0,1,0,1
+979,TPE_1996,Taiwan,TPE,0,1,0,1
+980,TPE_2000,Taiwan,TPE,0,1,4,5
+981,TPE_2004,Taiwan,TPE,2,2,1,5
+982,TPE_2008,Taiwan,TPE,0,0,4,4
+983,TRI_1948,Trinidad & Tobago,TRI,0,1,0,1
+984,TRI_1952,Trinidad & Tobago,TRI,0,0,2,2
+985,TRI_1964,Trinidad & Tobago,TRI,0,1,2,3
+986,TRI_1976,Trinidad & Tobago,TRI,1,0,0,1
+987,TRI_1996,Trinidad & Tobago,TRI,0,0,2,2
+988,TRI_2000,Trinidad & Tobago,TRI,0,1,1,2
+989,TRI_2004,Trinidad & Tobago,TRI,0,0,1,1
+990,TRI_2008,Trinidad & Tobago,TRI,0,2,0,2
+991,TUN_1964,Tunisia,TUN,0,1,1,2
+992,TUN_1968,Tunisia,TUN,1,0,1,2
+993,TUN_1972,Tunisia,TUN,0,1,0,1
+994,TUN_1996,Tunisia,TUN,0,0,1,1
+995,TUN_2008,Tunisia,TUN,1,0,0,1
+996,TUR_1936,Turkey,TUR,1,0,1,2
+997,TUR_1948,Turkey,TUR,6,4,2,12
+998,TUR_1952,Turkey,TUR,2,0,1,3
+999,TUR_1956,Turkey,TUR,3,2,2,7
+1000,TUR_1960,Turkey,TUR,7,2,0,9
+1001,TUR_1964,Turkey,TUR,2,3,1,6
+1002,TUR_1968,Turkey,TUR,2,0,0,2
+1003,TUR_1972,Turkey,TUR,0,1,0,1
+1004,TUR_1984,Turkey,TUR,0,0,3,3
+1005,TUR_1988,Turkey,TUR,1,1,0,2
+1006,TUR_1992,Turkey,TUR,2,2,2,6
+1007,TUR_1996,Turkey,TUR,4,1,1,6
+1008,TUR_2000,Turkey,TUR,3,0,2,5
+1009,TUR_2004,Turkey,TUR,3,3,4,10
+1010,TUR_2008,Turkey,TUR,1,4,3,8
+1011,UAE_2004,United Arab Emirates,UAE,1,0,0,1
+1012,UGA_1968,Uganda,UGA,0,1,1,2
+1013,UGA_1972,Uganda,UGA,1,1,0,2
+1014,UGA_1980,Uganda,UGA,0,1,0,1
+1015,UGA_1996,Uganda,UGA,0,0,1,1
+1016,UKR_1996,Ukraine,UKR,9,2,12,23
+1017,UKR_2000,Ukraine,UKR,3,10,10,23
+1018,UKR_2004,Ukraine,UKR,9,5,9,23
+1019,UKR_2008,Ukraine,UKR,7,5,15,27
+1020,URS_1952,Soviet Union,URS,22,30,19,71
+1021,URS_1956,Soviet Union,URS,37,29,32,98
+1022,URS_1960,Soviet Union,URS,43,29,31,103
+1023,URS_1964,Soviet Union,URS,30,31,35,96
+1024,URS_1968,Soviet Union,URS,29,32,30,91
+1025,URS_1972,Soviet Union,URS,50,27,22,99
+1026,URS_1976,Soviet Union,URS,49,41,35,125
+1027,URS_1980,Soviet Union,URS,80,69,46,195
+1028,URS_1988,Soviet Union,URS,55,31,46,132
+1029,URS_1992,Soviet Union,URS,45,38,29,112
+1030,URU_1924,Uruguay,URU,1,0,0,1
+1031,URU_1928,Uruguay,URU,1,0,0,1
+1032,URU_1932,Uruguay,URU,0,0,1,1
+1033,URU_1948,Uruguay,URU,0,1,1,2
+1034,URU_1952,Uruguay,URU,0,0,2,2
+1035,URU_1956,Uruguay,URU,0,0,1,1
+1036,URU_1964,Uruguay,URU,0,0,1,1
+1037,URU_2000,Uruguay,URU,0,1,0,1
+1038,USA_1896,United States,USA,11,7,2,20
+1039,USA_1900,United States,USA,19,14,15,48
+1040,USA_1904,United States,USA,78,82,79,239
+1041,USA_1906,United States,USA,12,6,6,24
+1042,USA_1908,United States,USA,23,12,12,47
+1043,USA_1912,United States,USA,26,19,19,64
+1044,USA_1920,United States,USA,41,27,27,95
+1045,USA_1924,United States,USA,45,27,27,99
+1046,USA_1928,United States,USA,22,18,16,56
+1047,USA_1932,United States,USA,44,36,30,110
+1048,USA_1936,United States,USA,24,21,12,57
+1049,USA_1948,United States,USA,38,27,19,84
+1050,USA_1952,United States,USA,40,19,17,76
+1051,USA_1956,United States,USA,32,25,17,74
+1052,USA_1960,United States,USA,34,21,16,71
+1053,USA_1964,United States,USA,36,26,28,90
+1054,USA_1968,United States,USA,45,28,34,107
+1055,USA_1972,United States,USA,33,31,30,94
+1056,USA_1976,United States,USA,34,35,25,94
+1057,USA_1984,United States,USA,83,61,30,174
+1058,USA_1988,United States,USA,36,31,27,94
+1059,USA_1992,United States,USA,37,34,37,108
+1060,USA_1996,United States,USA,44,32,25,101
+1061,USA_2000,United States,USA,37,24,31,92
+1062,USA_2004,United States,USA,36,39,28,103
+1063,USA_2008,United States,USA,36,38,36,110
+1064,UZB_1996,Uzbekistan,UZB,0,1,1,2
+1065,UZB_2000,Uzbekistan,UZB,1,1,2,4
+1066,UZB_2004,Uzbekistan,UZB,2,1,2,5
+1067,UZB_2008,Uzbekistan,UZB,1,2,3,6
+1068,VEN_1952,Venezuela,VEN,0,0,1,1
+1069,VEN_1960,Venezuela,VEN,0,0,1,1
+1070,VEN_1968,Venezuela,VEN,1,0,0,1
+1071,VEN_1976,Venezuela,VEN,0,1,0,1
+1072,VEN_1980,Venezuela,VEN,0,1,0,1
+1073,VEN_1984,Venezuela,VEN,0,0,3,3
+1074,VEN_2004,Venezuela,VEN,0,0,2,2
+1075,VEN_2008,Venezuela,VEN,0,0,1,1
+1076,VIE_2000,Vietnam,VIE,0,1,0,1
+1077,VIE_2008,Vietnam,VIE,0,1,0,1
+1078,YUF_1992,Yugoslav Federation,YUF,0,1,2,3
+1079,YUF_1996,Yugoslav Federation,YUF,1,1,2,4
+1080,YUF_2000,Yugoslav Federation,YUF,1,1,1,3
+1081,YUF_2004,Yugoslav Federation,YUF,0,2,0,2
+1082,YUG_1924,Yugoslavia (until 1988),YUG,2,0,0,2
+1083,YUG_1928,Yugoslavia (until 1988),YUG,1,1,3,5
+1084,YUG_1936,Yugoslavia (until 1988),YUG,0,1,0,1
+1085,YUG_1948,Yugoslavia (until 1988),YUG,0,2,0,2
+1086,YUG_1952,Yugoslavia (until 1988),YUG,1,2,0,3
+1087,YUG_1956,Yugoslavia (until 1988),YUG,0,3,0,3
+1088,YUG_1960,Yugoslavia (until 1988),YUG,1,1,0,2
+1089,YUG_1964,Yugoslavia (until 1988),YUG,2,1,2,5
+1090,YUG_1968,Yugoslavia (until 1988),YUG,3,3,2,8
+1091,YUG_1972,Yugoslavia (until 1988),YUG,2,1,2,5
+1092,YUG_1976,Yugoslavia (until 1988),YUG,2,3,3,8
+1093,YUG_1980,Yugoslavia (until 1988),YUG,2,3,4,9
+1094,YUG_1984,Yugoslavia (until 1988),YUG,7,4,7,18
+1095,YUG_1988,Yugoslavia (until 1988),YUG,3,4,5,12
+1096,ZAM_1984,Zambia,ZAM,0,0,1,1
+1097,ZAM_1996,Zambia,ZAM,0,1,0,1
+1098,ZIM_1980,Zimbabwe,ZIM,1,0,0,1
+1099,ZIM_2004,Zimbabwe,ZIM,1,1,1,3
+1100,ZIM_2008,Zimbabwe,ZIM,1,3,0,4

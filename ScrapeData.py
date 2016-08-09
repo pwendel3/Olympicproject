@@ -49,11 +49,12 @@ def _get_data(pagerequest):
 def _get_country_data(pagerequest):
 	soup = _get_soup(pagerequest)
 	temp = soup.find(class_ = 'pt8').findAll('tr')
+	year = soup.find('font',class_ = "nme").text[0:4]
 	#headers = ",".join(temp[0].findAll(text = True))
 	#headers = headers.split(',')
 	while True:
 		for row in range(1,len(temp)):
-			yield Medal_Tally(temp[row])
+			yield Medal_Tally(temp[row],year)
 		if row == len(temp):
 			"Page Extracted"
 		else:
@@ -68,10 +69,11 @@ def find_between( s, first, last ):
         return ""
 
 class Medal_Tally(object):
-	def __init__(self,__data):
+	def __init__(self,__data,__year):
 		self.medal = dict()
 		self.medal['Country_Code'] = __data.find('a')['href'].split("cty=")[1]
-		self.medal['Year'] = find_between(__data.find('a')['href'],"g=","&")
+		#self.medal['Year'] = find_between(__data.find('a')['href'],"g=","&")
+		self.medal['Year'] = __year
 		self.medal['Id'] = self.medal['Country_Code'] + '_' + self.medal['Year']
 		data = ",".join(__data.findAll(text = True))
 		data = data.split(",")
