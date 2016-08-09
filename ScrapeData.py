@@ -81,16 +81,18 @@ class Medal_Tally(object):
 if __name__ == '__main__':
 	sqlSetup.mysqlConn()
 	for i in range(1,27):
-		olympics_gen = _get_country_data(str(i))
+		olympics_gen = _get_country_data(str(i)) #Generator Object
 		olympics_data = list()
+		#Iterate over a generator object
 		try:
 			for j in olympics_gen:
 				olympics_data.append([j.medal['Id'],j.medal['Country'],j.medal['Country_Code'],j.medal['Gold'],
 									j.medal['Silver'],j.medal['Bronze'],j.medal['Total']])
 		except StopIteration:
 			pass
-		sqlSetup.update_OlympicMedals(olympics_data)
+		sqlSetup.update_OlympicMedals(olympics_data) #Update SQL table
 
+	# Hard-coded since no logic is followed here for 2008
 	olympics_gen = _get_country_data("47")
 	olympics_data = list()
 	try:
@@ -99,7 +101,14 @@ if __name__ == '__main__':
 									j.medal['Silver'],j.medal['Bronze'],j.medal['Total']])
 	except StopIteration:
 		pass
-	sqlSetup.update_OlympicMedals(olympics_data)
+	sqlSetup.update_OlympicMedals(olympics_data) # Update SQL table
+
+	#Perform SQL queries and store it in csv
+	query_data,headers = sqlSetup.query_with_fetchmany("""SELECT * FROM Olympic_Medals""")
+	Olympic_Medals_df = sqlSetup.make_frame(query_data,headers)
+	Olympic_Medals_df.to_csv(path_or_buf = "D:\Olympics_Data\Data\Olympics_Medals.csv")
+
+
 
 
 

@@ -97,3 +97,42 @@ def update_OlympicMedals(Olympic_Medals):
     cnx.commit()
     cursor.close()
     cnx.close()
+
+def iter_row(cursor, size=10):
+    while True:
+        rows = cursor.fetchmany(size)
+        if not rows:
+            break
+        for row in rows:
+            yield row
+            
+def query_with_fetchmany(sel):
+    query_list = list()
+    try:
+        cnx = mysql.connector.connect(user='root',password = "raunak")
+        cursor = cnx.cursor()
+        cnx.database = DB_NAME
+ 
+        cursor.execute(sel)
+ 
+        for row in iter_row(cursor):
+            query_list.append(row)
+        num_fields = len(cursor.description)
+        field_names = [i[0] for i in cursor.description]
+        field_names
+ 
+    except Error as e:
+        print(e)
+    
+    finally:
+        cursor.close()
+        cnx.close()
+    
+    return query_list,field_names
+
+# Convert SQL query into a pandas data frame
+def make_frame(list_of_tuples, legend):
+    framelist=[]
+    for i, cname in enumerate(legend):
+        framelist.append((cname,[e[i] for e in list_of_tuples]))
+    return pd.DataFrame.from_items(framelist)
