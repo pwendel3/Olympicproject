@@ -1,3 +1,4 @@
+
 from __future__ import absolute_import, division, print_function, unicode_literals
 
 from bs4 import BeautifulSoup
@@ -27,6 +28,8 @@ _WEBPAGE = "http://www.databaseolympics.com/games/gamesyear.htm?g="
 def _get_page(pagerequest):
 	resp_url = _SESSION.get(_WEBPAGE+pagerequest, headers=_HEADERS, cookies=_COOKIES)
 	if resp_url.status_code == 200:
+
+
 		return resp_url.text
 	else:
 		print ("No access")
@@ -36,9 +39,12 @@ def _get_soup(pagerequest):
     html = _get_page(pagerequest)
     return BeautifulSoup(html, 'html.parser')
 
-'''def _get_data(pagerequest):
-	soup = _get_soup(pagerequest)
-	return soup'''
+
+def _get_data(pagerequest):
+
+	data = _get_soup(pagerequest)
+	return data
+
 
 def _get_country_data(pagerequest):
 	soup = _get_soup(pagerequest)
@@ -79,6 +85,7 @@ class Medal_Tally(object):
 		return pprint.pformat(self.__dict__)
 
 if __name__ == '__main__':
+
 	sqlSetup.mysqlConn()
 	for i in range(1,27):
 		olympics_gen = _get_country_data(str(i)) #Generator Object
@@ -108,8 +115,6 @@ if __name__ == '__main__':
 	Olympic_Medals_df = sqlSetup.make_frame(query_data,headers)
 	#Write to CSV file
 	Olympic_Medals_df.to_csv(path_or_buf = "D:\Olympics_Data\Data\Olympics_Medals.csv")
-
-
 
 
 
