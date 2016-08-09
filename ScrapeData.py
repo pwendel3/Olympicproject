@@ -106,6 +106,7 @@ if __name__ == '__main__':
 	#Perform SQL queries and store it in csv
 	query_data,headers = sqlSetup.query_with_fetchmany("""SELECT * FROM Olympic_Medals""")
 	Olympic_Medals_df = sqlSetup.make_frame(query_data,headers)
+	#Write to CSV file
 	Olympic_Medals_df.to_csv(path_or_buf = "D:\Olympics_Data\Data\Olympics_Medals.csv")
 
 
