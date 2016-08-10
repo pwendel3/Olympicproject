@@ -11,6 +11,7 @@ from mysql.connector import errorcode
 from mysql.connector import Error
 from collections import OrderedDict
 import pandas as pd
+from pandas.io import sql
 
 
 DB_NAME = 'Olympics'
@@ -32,11 +33,10 @@ def defineTables():
     TABLES['Economic_Indicators'] = (
     "CREATE TABLE `Economic_Indicators` ("
     " `Id` char(255) NOT NULL,"
-    "  `Country` varchar(255) NOT NULL,"
-    "  `Gold_Medals` int,"
-    "  `Silver_Medals` int,"
-    "  `Bronze_Medals` int,"
-    "  `Total` int,"
+    " `GDP_Val` int,"
+    " `Country_Name` varchar(255) NOT NULL,"
+    " `Year` int,"
+    " `Total_Population` int,"
     " PRIMARY KEY (`Id`),"
     " CONSTRAINT FOREIGN KEY (`Id`) REFERENCES `Olympic_Medals`(`Id`) ON DELETE CASCADE"
     ") ENGINE = InnoDB")
@@ -97,6 +97,18 @@ def update_OlympicMedals(Olympic_Medals):
     cnx.commit()
     cursor.close()
     cnx.close()
+
+def update_EconomicIndicators(Economic_Indicators):
+    cnx = mysql.connector.connect(user='root',password = "raunak")
+    cursor = cnx.cursor()
+    cnx.database = DB_NAME
+    # Write Pandas DF to SQL database
+    Economic_Indicators.to_sql('Economic_Indicators',con = cnx,flavor='mysql',
+        if_exists = 'replace')
+    cnx.commit()
+    cursor.close()
+    cnx.close()
+
 
 def iter_row(cursor, size=10):
     while True:
