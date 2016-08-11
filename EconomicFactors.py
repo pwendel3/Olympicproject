@@ -20,7 +20,7 @@ def get_items(url):
 
 #Arrange world bank raw data in desired format
 def cleanData(df,Economic_Factor):
-    df_cleaned = pd.DataFrame(columns = ("Id","Country_Name","Year",Economic_Factor))
+    df_cleaned = pd.DataFrame(columns = ("Id","Country_Name","Country_Code","Year",Economic_Factor))
     for country in range(1,len(df)):
         for i in range(0,10):
             year_in = 1980+4*i
@@ -31,7 +31,8 @@ def cleanData(df,Economic_Factor):
             id = df.ix[country,'Country Code'] + "_" + str(year_in)
             if df.ix[country,column] is not 'NaN':
                 eco_fac = df.ix[country,column]
-                data = pd.DataFrame([[id,df.ix[country, 'Country Name'], year_val, eco_fac]],columns = df_cleaned.columns)
+                data = pd.DataFrame([[id,df.ix[country, 'Country Name'], df.ix[country,'Country Code'],
+                	year_val, eco_fac]],columns = df_cleaned.columns)
                 df_cleaned = df_cleaned.append(data,ignore_index = True)
     return df_cleaned
 
@@ -47,8 +48,9 @@ if __name__ == '__main__':
     total_pop = cleanData(total_pop_contents,"Total_Population")
     #Merge the two data frames
     Economic_indicators = gdp.merge(total_pop,on='Id',how = 'inner')
-    Economic_indicators = Economic_indicators.drop(['Country_Name_x','Year_x'], axis = 1)
-    Economic_indicators = Economic_indicators.rename(index = str,columns={'Country_Name_y':'Country_Name','Year_y':'Year'})
+    Economic_indicators = Economic_indicators.drop(['Country_Name_x','Year_x','Country_Code_x'], axis = 1)
+    Economic_indicators = Economic_indicators.rename(index = str,columns={'Country_Name_y':'Country_Name','Year_y':'Year',
+    																		'Country_Code_y':'Country_Code'})
 
     # Add to SQL database
     print ("Update Economic Factors")
@@ -56,5 +58,5 @@ if __name__ == '__main__':
     sqlSetup.update_EconomicIndicators(Economic_indicators)
 
     #Write file to CSV
-    Economic_indicators.to_csv(path_or_buf = "D:\Olympics_Data\Data\Economic_Indicators.csv")
+    #Economic_indicators.to_csv(path_or_buf = "D:\Olympics_Data\Data\Economic_Indicators.csv")
 

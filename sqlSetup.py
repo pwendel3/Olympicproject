@@ -15,7 +15,7 @@ from pandas.io import sql
 
 DB_NAME = 'Olympics_DB'
 user = 'root'
-password = 'raunak'
+password = 'jesuit50'
 
 
 TABLES = OrderedDict()
@@ -41,6 +41,7 @@ def defineTables():
     " `Id` char(255) NOT NULL,"
     " `GDP_Val` int,"
     " `Country_Name` varchar(255) NOT NULL,"
+    " `Country_Code` varchar(255),"
     " `Year` int,"
     " `Total_Population` int,"
     " PRIMARY KEY (`Id`),"
