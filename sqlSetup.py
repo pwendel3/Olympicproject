@@ -13,20 +13,26 @@ from collections import OrderedDict
 import pandas as pd
 from pandas.io import sql
 
+DB_NAME = 'Olympics_DB'
+user = 'root'
+password = 'raunak'
 
-DB_NAME = 'Olympics'
 
 TABLES = OrderedDict()
 def defineTables():
-    TABLES['Olympic_Medals'] = (
-    "CREATE TABLE `Olympic_Medals` ("
+    TABLES['Country_Medals'] = (
+    "CREATE TABLE `Country_Medals` ("
     "  `Id` char(20) NOT NULL,"
+    "  `Year` char(20),"
     "  `Country` varchar(255) NOT NULL,"
     "  `Country_Code` varchar(255) NOT NULL,"
     "  `Gold_Medals` int,"
     "  `Silver_Medals` int,"
     "  `Bronze_Medals` int,"
     "  `Total` int,"
+    "  `Total_Participants` int,"
+    "  `Men` int,"
+    "  `Women` int,"
     "  PRIMARY KEY (`Id`)"
     ") ENGINE=InnoDB")
 
@@ -38,8 +44,26 @@ def defineTables():
     " `Year` int,"
     " `Total_Population` int,"
     " PRIMARY KEY (`Id`),"
-    " CONSTRAINT FOREIGN KEY (`Id`) REFERENCES `Olympic_Medals`(`Id`) ON DELETE CASCADE"
+    " CONSTRAINT FOREIGN KEY (`Id`) REFERENCES `Country_Medals`(`Id`) ON DELETE CASCADE"
     ") ENGINE = InnoDB")
+
+    TABLES['Athlete'] = (
+        "CREATE TABLE `Athlete` ("
+        " `Key_ID` int NOT NULL AUTO_INCREMENT,"
+        " `Rank` char(10),"
+        " `Name` varchar(255) NOT NULL,"
+        " `Gender` char(6) NOT NULL,"
+        " `Age` int,"
+        " `Sport` char(255),"
+        " `Gold_Medals` int,"
+        " `Silver_Medals` int,"
+        " `Bronze_Medals` int,"
+        " `Total` int,"
+        " `Id` char(255) NOT NULL,"
+        " `Year` int,"
+        " PRIMARY KEY (`Key_ID`),"
+        " CONSTRAINT FOREIGN KEY (`Id`) REFERENCES `Country_Medals`(`Id`) ON DELETE CASCADE"
+        ") ENGINE = InnoDB")
 
     return TABLES
 
@@ -54,7 +78,7 @@ def create_database(cursor):
         
 
 def mysqlConn():
-    cnx = mysql.connector.connect(user='root',password = "raunak")
+    cnx = mysql.connector.connect(user=user,password = password)
     cursor = cnx.cursor()
     try:
         cnx.database = DB_NAME 
@@ -82,14 +106,14 @@ def mysqlConn():
     cursor.close()
     cnx.close()
 
-def update_OlympicMedals(Olympic_Medals):
-    cnx = mysql.connector.connect(user='root',password = "raunak")
+def update_CountryMedals(Olympic_Medals):
+    cnx = mysql.connector.connect(user=user,password = password)
     cursor = cnx.cursor()
     cnx.database = DB_NAME
-    Olympic_Medals_sql = ("""INSERT INTO Olympic_Medals 
-        (Id,Country, Country_Code, Gold_Medals, Silver_Medals, Bronze_Medals,
-        Total) 
-        VALUES (%s,%s,%s,%s,%s,%s,%s)""")
+    Olympic_Medals_sql = ("""INSERT INTO Country_Medals 
+        (Id,Year,Country, Country_Code, Gold_Medals, Silver_Medals, Bronze_Medals,
+        Total,Total_Participants,Men,Women) 
+        VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""")
     try:
         cursor.executemany(Olympic_Medals_sql,Olympic_Medals)
     except Error as e:
@@ -99,7 +123,7 @@ def update_OlympicMedals(Olympic_Medals):
     cnx.close()
 
 def update_EconomicIndicators(Economic_Indicators):
-    cnx = mysql.connector.connect(user='root',password = "raunak")
+    cnx = mysql.connector.connect(user=user,password = password)
     cursor = cnx.cursor()
     cnx.database = DB_NAME
     # Write Pandas DF to SQL database
@@ -109,6 +133,21 @@ def update_EconomicIndicators(Economic_Indicators):
     cursor.close()
     cnx.close()
 
+def update_Athlete(Athlete):
+    cnx = mysql.connector.connect(user=user,password = password)
+    cursor = cnx.cursor()
+    cnx.database = DB_NAME
+    Athlete_sql = ("""INSERT INTO Athlete 
+        (Rank,Name,Gender, Age, Sport, Gold_Medals, Silver_Medals,Bronze_Medals,
+        Total,Id,Year) 
+        VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""")
+    try:
+        cursor.executemany(Athlete_sql,Athlete)
+    except Error as e:
+        print ('Error:', e)  
+    cnx.commit()
+    cursor.close()
+    cnx.close()
 
 def iter_row(cursor, size=10):
     while True:
@@ -144,7 +183,7 @@ def query_with_fetchmany(sel):
 
 # Convert SQL query into a pandas data frame
 def make_frame(list_of_tuples, legend):
-    framelist=[]
+    framelist = []
     for i, cname in enumerate(legend):
         framelist.append((cname,[e[i] for e in list_of_tuples]))
     return pd.DataFrame.from_items(framelist)

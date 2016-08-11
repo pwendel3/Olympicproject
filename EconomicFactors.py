@@ -7,6 +7,8 @@ import sys
 import zipfile, urllib, csv
 import sqlSetup
 
+DB_NAME = "Olympics_DB"
+
 def get_items(url):
     filehandle, _ = urllib.urlretrieve(url)
     zip_file_object = zipfile.ZipFile(filehandle, 'r')
@@ -49,6 +51,7 @@ if __name__ == '__main__':
     Economic_indicators = Economic_indicators.rename(index = str,columns={'Country_Name_y':'Country_Name','Year_y':'Year'})
 
     # Add to SQL database
+    print ("Update Economic Factors")
     sqlSetup.mysqlConn()
     sqlSetup.update_EconomicIndicators(Economic_indicators)
 

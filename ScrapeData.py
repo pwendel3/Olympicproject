@@ -56,7 +56,7 @@ def _get_country_data(pagerequest):
 		for row in range(1,len(temp)):
 			yield Medal_Tally(temp[row],year)
 		if row == len(temp):
-			"Page Extracted"
+			print ("Page Extracted")
 		else:
 			break
 
