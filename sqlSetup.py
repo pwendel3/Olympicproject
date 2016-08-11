@@ -15,7 +15,7 @@ from pandas.io import sql
 
 DB_NAME = 'Olympics_DB'
 user = 'root'
-password = 'jesuit50'
+password = 'raunak'
 
 
 TABLES = OrderedDict()

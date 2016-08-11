@@ -20,21 +20,34 @@ def get_items(url):
 
 #Arrange world bank raw data in desired format
 def cleanData(df,Economic_Factor):
-    df_cleaned = pd.DataFrame(columns = ("Id","Country_Name","Country_Code","Year",Economic_Factor))
-    for country in range(1,len(df)):
-        for i in range(0,10):
-            year_in = 1980+4*i
-            year_val = year_in
-            if year_in == 2016:
-                year_val = 2015
-            column = str(year_val)
-            id = df.ix[country,'Country Code'] + "_" + str(year_in)
-            if df.ix[country,column] is not 'NaN':
-                eco_fac = df.ix[country,column]
-                data = pd.DataFrame([[id,df.ix[country, 'Country Name'], df.ix[country,'Country Code'],
-                	year_val, eco_fac]],columns = df_cleaned.columns)
-                df_cleaned = df_cleaned.append(data,ignore_index = True)
-    return df_cleaned
+	replacements = {'Country Code' : {
+	'DZA' : 'ALG','BHR' : 'BRN','BRB' : 'BAR','BWA' : 'BOT','BGR' : 'BUL',
+	'CHL' : 'CHI','CRI' : 'CRC','HRV' : 'CRO','DNK' : 'DEN','DEU' : 'GER',
+	'GRC' : 'GRE','GRD' : 'GRN','GTM' : 'GUA','IDN' : 'INA','KWT' : 'KUW',
+	'LVA' : 'LAT','LBN' : 'LIB','MYS' : 'MAS','MUS' : 'MRI','MNG' : 'MGL',
+	'NLD' : 'NED','NGA' : 'NGR','PRY' : 'PAR','PHL' : 'PHI','PRT' : 'POR',
+	'PRI' : 'PUR','SAU' : 'KSA','SGP' : 'SIN','SVN' : 'SLO','ZAF' : 'RSA',
+	'LKA' : 'SRI','SDN' : 'SUD','CHE' : 'SUI','TZA' : 'TAN','TGO' : 'TOG',
+	'TON' : 'TGA','ARE' : 'UAE','URY' : 'URU','VNM' : 'VIE','ZMB' : 'ZAM',
+	'ZWE' : 'ZIM'
+	}}
+	df = df.replace(replacements)
+	#print (df)
+	df_cleaned = pd.DataFrame(columns = ("Id","Country_Name","Country_Code","Year",Economic_Factor))
+	for country in range(1,len(df)):
+		for i in range(0,10):
+			year_in = 1980+4*i
+			year_val = year_in
+			if year_in == 2016:
+				year_val = 2015
+			column = str(year_val)
+			id = df.ix[country,'Country Code'] + "_" + str(year_in)
+			if df.ix[country,column] is not 'NaN':
+				eco_fac = df.ix[country,column]
+				data = pd.DataFrame([[id,df.ix[country, 'Country Name'], df.ix[country,'Country Code'],
+					year_val, eco_fac]],columns = df_cleaned.columns)
+				df_cleaned = df_cleaned.append(data,ignore_index = True)
+	return df_cleaned
 
 
 if __name__ == '__main__':
@@ -58,5 +71,4 @@ if __name__ == '__main__':
     sqlSetup.update_EconomicIndicators(Economic_indicators)
 
     #Write file to CSV
-    #Economic_indicators.to_csv(path_or_buf = "D:\Olympics_Data\Data\Economic_Indicators.csv")
-
+    Economic_indicators.to_csv(path_or_buf = "D:\Olympics_Data\Data\Economic_Indicators.csv")
