@@ -66,6 +66,18 @@ def defineTables():
         " CONSTRAINT FOREIGN KEY (`Id`) REFERENCES `Country_Medals`(`Id`) ON DELETE CASCADE"
         ") ENGINE = InnoDB")
 
+    TABLES['Country_Medals_2016'] = (
+    "CREATE TABLE `Country_Medals_2016` ("
+    "  `Id` char(20) NOT NULL,"
+    "  `Year` char(20),"
+    "  `Country_Code` varchar(255) NOT NULL,"
+    "  `Gold_Medals` int,"
+    "  `Silver_Medals` int,"
+    "  `Bronze_Medals` int,"
+    "  `Total` int,"
+    "  PRIMARY KEY (`Id`)"
+    ") ENGINE=InnoDB")
+
     return TABLES
 
 
@@ -123,6 +135,22 @@ def update_CountryMedals(Olympic_Medals):
     cursor.close()
     cnx.close()
 
+def update_CountryMedals_2016(Olympic_Medals):
+    cnx = mysql.connector.connect(user=user,password = password)
+    cursor = cnx.cursor()
+    cnx.database = DB_NAME
+    Olympic_Medals_sql = ("""INSERT INTO Country_Medals_2016
+        (Id,Year,Country_Code, Gold_Medals, Silver_Medals, Bronze_Medals,
+        Total) 
+        VALUES (%s,%s,%s,%s,%s,%s,%s)""")
+    try:
+        cursor.executemany(Olympic_Medals_sql,Olympic_Medals)
+    except Error as e:
+        print ('Error:', e)  
+    cnx.commit()
+    cursor.close()
+    cnx.close()
+
 def update_EconomicIndicators(Economic_Indicators):
     cnx = mysql.connector.connect(user=user,password = password)
     cursor = cnx.cursor()
@@ -161,7 +189,7 @@ def iter_row(cursor, size=10):
 def query_with_fetchmany(sel):
     query_list = list()
     try:
-        cnx = mysql.connector.connect(user='root',password = "raunak")
+        cnx = mysql.connector.connect(user=user,password = password)
         cursor = cnx.cursor()
         cnx.database = DB_NAME
  

@@ -110,7 +110,7 @@ if __name__ == '__main__':
 									j.medal['Silver'],j.medal['Bronze'],j.medal['Total']])
 	except StopIteration:
 		pass
-	sqlSetup.update_OlympicMedals(olympics_data) # Update SQL table
+	sqlSetup.update_CountryMedals(olympics_data) # Update SQL table
 
 	#Perform SQL queries and store it in csv
 	query_data,headers = sqlSetup.query_with_fetchmany("""SELECT * FROM Olympic_Medals""")
